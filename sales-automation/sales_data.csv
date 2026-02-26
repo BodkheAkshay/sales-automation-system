@@ -1,0 +1,1001 @@
+order_date,region,city,category,product_name,sales_amount,orders_count,discount_amount,return_amount,channel
+2026-01-19,West,Ahmedabad,Clothing,Jeans,16655,25,2375,890,Amazon
+2025-12-21,West,Pune,Beauty,Hair Dryer,10869,44,2076,996,Website
+2025-12-27,East,Kolkata,Beauty,Perfume,4275,4,1729,1332,Flipkart
+2026-02-08,North,Delhi,Home,Cookware Set,9812,11,2548,1484,Flipkart
+2025-12-21,South,Chennai,Clothing,Jeans,15819,58,376,816,Amazon
+2026-01-04,West,Mumbai,Electronics,Smart Watch,17204,3,1470,1343,Instagram
+2025-12-22,North,Lucknow,Home,Mixer Grinder,1490,13,1987,336,Flipkart
+2026-01-05,North,Lucknow,Home,Mixer Grinder,19345,59,760,307,App
+2025-12-15,North,Chandigarh,Beauty,Hair Dryer,8807,18,1754,714,App
+2025-12-23,South,Bangalore,Clothing,Jeans,9462,28,1667,241,Flipkart
+2026-01-02,North,Chandigarh,Electronics,Wireless Earbuds,3536,29,98,810,Instagram
+2025-12-23,East,Bhubaneswar,Clothing,Jeans,18456,3,1505,542,App
+2026-02-04,West,Ahmedabad,Beauty,Perfume,10519,20,2977,816,Flipkart
+2025-12-19,North,Chandigarh,Beauty,Face Cream,11340,19,2817,464,Retail Store
+2026-01-10,East,Kolkata,Clothing,Men T-Shirt,4108,12,2762,445,Retail Store
+2026-01-19,East,Bhubaneswar,Electronics,Wireless Earbuds,11047,30,2310,981,Instagram
+2026-01-31,North,Delhi,Electronics,Wireless Earbuds,1694,38,1843,353,Amazon
+2025-12-28,West,Mumbai,Home,Cookware Set,11221,45,1844,406,Flipkart
+2026-01-20,West,Ahmedabad,Beauty,Perfume,7115,9,1102,391,Website
+2026-01-05,East,Bhubaneswar,Clothing,Men T-Shirt,6457,53,2584,81,Retail Store
+2025-12-13,West,Ahmedabad,Clothing,Women Kurti,10689,30,1972,1041,Website
+2025-12-27,East,Kolkata,Electronics,Smart Watch,7729,23,2651,720,Amazon
+2025-12-27,East,Kolkata,Electronics,Bluetooth Speaker,12807,41,319,109,App
+2026-01-03,South,Chennai,Electronics,Smart Watch,19459,32,1240,477,Website
+2026-01-21,East,Kolkata,Clothing,Jeans,12532,1,1669,453,Retail Store
+2025-12-28,South,Hyderabad,Beauty,Face Cream,10625,1,2977,1024,Retail Store
+2026-01-02,West,Pune,Clothing,Men T-Shirt,15875,51,2242,997,Website
+2025-12-19,North,Chandigarh,Electronics,Smart Watch,5848,8,2344,794,Website
+2026-01-16,South,Hyderabad,Electronics,Bluetooth Speaker,13050,33,2474,750,Instagram
+2026-02-06,South,Chennai,Beauty,Perfume,16576,22,2221,972,Flipkart
+2025-12-27,North,Lucknow,Clothing,Men T-Shirt,4454,40,885,1246,App
+2026-02-09,South,Hyderabad,Home,Wall Clock,11446,21,2450,38,Flipkart
+2025-12-20,North,Chandigarh,Home,Wall Clock,19746,11,211,550,Retail Store
+2026-01-02,North,Delhi,Electronics,Wireless Earbuds,7918,9,187,128,Retail Store
+2026-01-15,North,Lucknow,Beauty,Face Cream,8536,29,1505,880,Instagram
+2026-01-09,West,Mumbai,Beauty,Perfume,7648,15,862,1173,Instagram
+2025-12-12,West,Pune,Clothing,Women Kurti,10251,20,2005,774,Retail Store
+2026-02-02,West,Mumbai,Home,Mixer Grinder,9437,18,988,1280,Amazon
+2025-12-14,East,Bhubaneswar,Clothing,Men T-Shirt,7726,49,1958,488,Retail Store
+2026-01-13,West,Pune,Home,Cookware Set,1295,6,1928,700,Instagram
+2026-02-05,North,Delhi,Clothing,Women Kurti,6274,55,381,1105,Instagram
+2025-12-23,North,Chandigarh,Clothing,Jeans,17411,57,982,1282,App
+2025-12-23,South,Bangalore,Home,Cookware Set,15236,22,2109,1195,Amazon
+2026-01-25,South,Hyderabad,Home,Wall Clock,11391,15,2728,2,Website
+2025-12-21,West,Mumbai,Clothing,Women Kurti,2136,49,1899,1015,Amazon
+2026-01-24,South,Chennai,Beauty,Perfume,12949,12,217,123,App
+2026-02-06,West,Pune,Beauty,Perfume,15533,39,1496,1079,Amazon
+2026-01-18,North,Chandigarh,Electronics,Bluetooth Speaker,10310,16,1119,599,Website
+2025-12-22,South,Bangalore,Home,Cookware Set,18302,22,2634,472,Website
+2026-01-01,South,Bangalore,Electronics,Wireless Earbuds,6430,41,630,1095,Retail Store
+2026-01-21,East,Kolkata,Beauty,Hair Dryer,18743,36,2405,496,Retail Store
+2026-01-21,West,Ahmedabad,Clothing,Men T-Shirt,5575,14,2666,144,Amazon
+2026-01-16,West,Pune,Electronics,Smart Watch,1255,15,2074,850,App
+2025-12-24,West,Ahmedabad,Home,Cookware Set,6261,22,2794,321,App
+2026-01-31,East,Kolkata,Home,Mixer Grinder,5630,54,839,1461,App
+2025-12-22,West,Ahmedabad,Home,Wall Clock,14424,47,794,574,App
+2026-01-14,South,Hyderabad,Home,Wall Clock,18845,59,1875,91,Instagram
+2026-01-12,North,Delhi,Beauty,Perfume,13653,29,1439,304,App
+2026-01-07,West,Pune,Electronics,Wireless Earbuds,5951,36,1961,276,Website
+2025-12-24,East,Patna,Beauty,Hair Dryer,13484,49,1280,613,App
+2025-12-31,North,Lucknow,Electronics,Wireless Earbuds,3240,40,449,1054,Retail Store
+2026-02-08,North,Delhi,Electronics,Bluetooth Speaker,11337,42,829,1380,Website
+2025-12-30,South,Hyderabad,Clothing,Women Kurti,7828,29,2842,1374,Website
+2026-02-06,West,Pune,Beauty,Hair Dryer,13247,44,2689,179,App
+2026-01-10,East,Bhubaneswar,Home,Cookware Set,15504,1,2806,730,App
+2026-02-02,South,Chennai,Clothing,Men T-Shirt,8577,59,239,483,Retail Store
+2025-12-24,South,Bangalore,Electronics,Smart Watch,5560,1,1097,226,Website
+2026-01-19,West,Pune,Electronics,Smart Watch,4356,58,1799,160,App
+2026-01-11,North,Lucknow,Beauty,Hair Dryer,1367,58,2509,1158,App
+2025-12-22,West,Ahmedabad,Home,Wall Clock,10921,17,2830,18,App
+2026-01-03,North,Delhi,Electronics,Smart Watch,8817,31,170,695,Amazon
+2025-12-31,West,Ahmedabad,Clothing,Men T-Shirt,8333,60,2822,1447,Flipkart
+2026-01-11,South,Chennai,Home,Cookware Set,1121,4,845,1471,Instagram
+2026-02-06,South,Chennai,Home,Cookware Set,19828,31,805,377,Amazon
+2026-01-16,North,Delhi,Electronics,Bluetooth Speaker,17877,8,844,1400,Amazon
+2026-01-27,West,Ahmedabad,Home,Mixer Grinder,13957,1,975,184,Amazon
+2025-12-14,South,Chennai,Beauty,Face Cream,9646,7,2660,1364,Website
+2026-02-02,North,Chandigarh,Electronics,Wireless Earbuds,8998,23,1333,1281,Flipkart
+2026-01-01,East,Bhubaneswar,Home,Mixer Grinder,12838,5,992,599,Retail Store
+2026-01-01,South,Hyderabad,Home,Cookware Set,5315,55,1986,1416,Flipkart
+2026-02-09,South,Hyderabad,Home,Wall Clock,19291,58,803,1432,App
+2025-12-29,North,Delhi,Electronics,Bluetooth Speaker,3974,57,828,1465,Amazon
+2026-01-01,West,Mumbai,Beauty,Hair Dryer,5593,30,1023,1110,App
+2026-01-13,South,Chennai,Beauty,Hair Dryer,8958,19,1125,175,Retail Store
+2026-01-25,East,Patna,Beauty,Face Cream,3187,57,2408,145,Instagram
+2026-02-08,West,Mumbai,Electronics,Bluetooth Speaker,10380,6,2624,115,App
+2025-12-20,South,Chennai,Home,Cookware Set,17704,25,1999,1396,Instagram
+2026-01-16,West,Mumbai,Clothing,Men T-Shirt,19912,50,1264,823,Amazon
+2026-01-30,East,Bhubaneswar,Beauty,Perfume,9155,3,1917,216,App
+2026-02-09,North,Lucknow,Home,Mixer Grinder,1823,58,619,614,Flipkart
+2026-01-16,East,Patna,Clothing,Jeans,2819,6,1272,377,Website
+2026-02-08,West,Mumbai,Beauty,Hair Dryer,11480,45,2544,1427,Instagram
+2026-01-22,South,Hyderabad,Home,Mixer Grinder,16218,37,1093,266,Retail Store
+2026-01-12,West,Ahmedabad,Home,Mixer Grinder,15023,19,640,341,App
+2026-01-17,North,Delhi,Clothing,Jeans,15565,1,457,1319,App
+2025-12-25,North,Lucknow,Clothing,Men T-Shirt,15912,1,1209,283,Retail Store
+2026-01-30,East,Patna,Home,Mixer Grinder,15015,23,1530,599,Retail Store
+2025-12-26,North,Chandigarh,Clothing,Jeans,16016,30,2060,1063,Retail Store
+2026-01-11,South,Chennai,Home,Cookware Set,3074,6,460,118,Website
+2026-01-28,North,Chandigarh,Home,Mixer Grinder,6357,46,2576,207,Instagram
+2026-01-09,South,Chennai,Home,Cookware Set,4081,5,1982,587,Flipkart
+2026-01-31,East,Patna,Electronics,Smart Watch,10227,46,1177,245,Website
+2026-01-22,East,Bhubaneswar,Beauty,Hair Dryer,14957,22,1833,12,Retail Store
+2026-01-06,South,Bangalore,Beauty,Hair Dryer,5553,34,944,971,Retail Store
+2025-12-20,East,Patna,Home,Cookware Set,2447,33,2050,687,Instagram
+2026-02-09,East,Bhubaneswar,Electronics,Wireless Earbuds,14926,11,787,1080,Flipkart
+2026-01-30,East,Bhubaneswar,Clothing,Women Kurti,15568,2,2314,1413,Retail Store
+2025-12-16,West,Ahmedabad,Electronics,Smart Watch,1794,33,422,97,Instagram
+2026-01-25,East,Patna,Home,Cookware Set,6440,34,1493,508,Retail Store
+2025-12-14,North,Delhi,Electronics,Wireless Earbuds,15518,32,1401,82,Instagram
+2025-12-14,West,Ahmedabad,Beauty,Face Cream,8110,53,2120,270,Instagram
+2026-01-07,West,Pune,Electronics,Bluetooth Speaker,15794,44,811,465,Website
+2026-02-08,West,Mumbai,Clothing,Women Kurti,3583,13,1223,1118,App
+2025-12-21,North,Chandigarh,Home,Wall Clock,16467,9,850,392,Flipkart
+2025-12-29,West,Pune,Electronics,Wireless Earbuds,3879,59,1187,1165,Website
+2026-01-12,West,Mumbai,Beauty,Hair Dryer,9187,17,180,405,App
+2026-01-05,East,Patna,Home,Cookware Set,18155,40,795,1060,App
+2026-01-14,West,Ahmedabad,Home,Mixer Grinder,6617,37,1061,59,Retail Store
+2025-12-12,East,Patna,Electronics,Smart Watch,9642,50,2011,299,Flipkart
+2026-01-19,South,Bangalore,Home,Cookware Set,13990,7,620,1200,Website
+2025-12-18,South,Bangalore,Home,Wall Clock,5540,6,1081,1257,App
+2025-12-29,West,Mumbai,Clothing,Jeans,10383,31,2223,39,App
+2026-01-12,North,Chandigarh,Electronics,Bluetooth Speaker,1344,20,1710,808,App
+2026-01-29,West,Ahmedabad,Beauty,Face Cream,4006,8,2418,269,Flipkart
+2026-01-09,South,Bangalore,Beauty,Hair Dryer,8173,15,2711,1170,Instagram
+2026-02-05,East,Bhubaneswar,Home,Wall Clock,15869,6,1070,1342,Website
+2026-01-31,East,Kolkata,Beauty,Face Cream,9072,51,1641,1037,Retail Store
+2025-12-21,South,Bangalore,Electronics,Smart Watch,3741,2,559,758,Retail Store
+2025-12-12,East,Kolkata,Beauty,Hair Dryer,11484,39,296,110,Website
+2026-01-25,South,Hyderabad,Clothing,Women Kurti,15162,32,651,1330,App
+2025-12-30,South,Bangalore,Electronics,Bluetooth Speaker,563,16,1253,424,Retail Store
+2026-01-26,South,Chennai,Beauty,Face Cream,11002,46,700,1040,Website
+2025-12-14,South,Hyderabad,Electronics,Wireless Earbuds,13313,8,2656,1164,Website
+2026-01-03,East,Bhubaneswar,Home,Cookware Set,16904,22,1069,163,Amazon
+2025-12-22,North,Chandigarh,Home,Wall Clock,6647,13,1573,487,Retail Store
+2026-02-05,South,Bangalore,Clothing,Men T-Shirt,9513,3,1130,1327,Instagram
+2026-01-02,South,Bangalore,Beauty,Perfume,512,41,1652,641,App
+2025-12-27,West,Pune,Electronics,Smart Watch,6608,43,169,153,Flipkart
+2025-12-15,West,Mumbai,Clothing,Jeans,13760,45,1093,837,App
+2025-12-15,North,Lucknow,Beauty,Hair Dryer,11626,35,1214,769,App
+2025-12-15,North,Chandigarh,Electronics,Smart Watch,917,44,873,123,Instagram
+2026-01-17,East,Bhubaneswar,Beauty,Perfume,15765,28,1576,970,App
+2026-02-09,South,Chennai,Electronics,Smart Watch,14072,37,1529,974,App
+2026-02-04,East,Kolkata,Beauty,Face Cream,13132,23,2802,268,App
+2025-12-22,South,Chennai,Clothing,Jeans,3004,42,2469,1104,App
+2026-01-02,South,Chennai,Beauty,Hair Dryer,12928,5,1341,1401,Instagram
+2026-01-20,South,Bangalore,Beauty,Hair Dryer,19764,17,376,1045,Retail Store
+2026-01-29,North,Chandigarh,Clothing,Men T-Shirt,7739,50,737,1224,App
+2025-12-14,North,Delhi,Clothing,Men T-Shirt,11335,33,2457,440,Flipkart
+2026-02-01,North,Lucknow,Home,Wall Clock,8770,23,1869,44,Amazon
+2025-12-14,West,Mumbai,Home,Mixer Grinder,17425,23,2831,335,Website
+2026-01-30,North,Chandigarh,Beauty,Perfume,15125,29,1454,616,Amazon
+2025-12-21,North,Delhi,Beauty,Perfume,2317,23,1766,977,Instagram
+2026-02-05,East,Kolkata,Home,Mixer Grinder,18221,47,1109,1424,Instagram
+2026-01-02,West,Pune,Clothing,Women Kurti,3202,22,1537,101,Flipkart
+2026-02-05,East,Bhubaneswar,Electronics,Smart Watch,10929,14,2751,637,Retail Store
+2025-12-28,West,Pune,Electronics,Smart Watch,1023,11,2132,465,Website
+2026-01-21,North,Chandigarh,Home,Mixer Grinder,14941,60,895,272,Instagram
+2025-12-13,North,Chandigarh,Electronics,Smart Watch,3751,4,1512,1115,Flipkart
+2026-01-13,North,Delhi,Electronics,Smart Watch,13908,22,1349,379,Instagram
+2026-01-03,South,Hyderabad,Electronics,Wireless Earbuds,6559,10,593,368,Website
+2025-12-12,North,Chandigarh,Electronics,Bluetooth Speaker,2176,21,1866,1025,Website
+2026-01-28,South,Hyderabad,Electronics,Bluetooth Speaker,5271,49,2386,238,Website
+2026-01-13,North,Chandigarh,Electronics,Bluetooth Speaker,14863,40,1215,303,Flipkart
+2026-01-26,South,Bangalore,Clothing,Women Kurti,8068,59,2741,316,Amazon
+2026-01-15,South,Bangalore,Clothing,Men T-Shirt,13527,38,54,883,Retail Store
+2026-01-08,West,Pune,Electronics,Smart Watch,1798,50,2866,166,Retail Store
+2025-12-14,South,Bangalore,Clothing,Women Kurti,9247,26,588,757,App
+2025-12-31,East,Patna,Beauty,Hair Dryer,12772,17,470,811,Amazon
+2025-12-16,West,Mumbai,Beauty,Hair Dryer,9241,25,1429,882,App
+2025-12-15,West,Pune,Electronics,Wireless Earbuds,6669,23,1078,951,Retail Store
+2025-12-18,North,Lucknow,Home,Wall Clock,19760,21,945,145,Amazon
+2025-12-18,North,Chandigarh,Home,Mixer Grinder,16507,47,2541,897,Website
+2026-01-02,East,Bhubaneswar,Electronics,Bluetooth Speaker,15672,59,1470,1463,Website
+2026-01-11,East,Bhubaneswar,Clothing,Men T-Shirt,7269,54,755,24,Flipkart
+2026-01-01,North,Chandigarh,Electronics,Smart Watch,14666,25,2405,1207,Retail Store
+2026-01-09,East,Bhubaneswar,Home,Cookware Set,18160,30,2929,1412,Retail Store
+2026-01-31,West,Mumbai,Electronics,Smart Watch,11077,15,2040,197,Retail Store
+2025-12-30,East,Bhubaneswar,Electronics,Smart Watch,9787,28,1068,1384,Instagram
+2026-02-07,South,Chennai,Clothing,Jeans,18997,5,1357,1210,Instagram
+2025-12-20,East,Kolkata,Beauty,Hair Dryer,14680,53,2375,1384,Retail Store
+2026-01-19,East,Kolkata,Electronics,Wireless Earbuds,5969,1,1567,1273,Instagram
+2025-12-23,South,Chennai,Home,Mixer Grinder,6881,59,499,225,Flipkart
+2025-12-12,North,Lucknow,Clothing,Men T-Shirt,5211,4,2695,490,Amazon
+2025-12-29,South,Bangalore,Beauty,Face Cream,10207,33,2696,1408,Instagram
+2025-12-19,West,Pune,Beauty,Hair Dryer,16654,18,1327,199,Amazon
+2026-01-27,North,Chandigarh,Electronics,Bluetooth Speaker,11196,10,879,335,Website
+2026-01-25,South,Bangalore,Beauty,Face Cream,14793,51,1852,342,Instagram
+2025-12-24,East,Bhubaneswar,Electronics,Smart Watch,15849,1,2025,362,Flipkart
+2026-02-04,South,Bangalore,Clothing,Women Kurti,7906,60,2553,152,App
+2025-12-17,North,Chandigarh,Beauty,Perfume,6703,38,800,835,App
+2026-01-15,West,Ahmedabad,Home,Cookware Set,10349,29,1877,1383,Instagram
+2025-12-31,West,Ahmedabad,Electronics,Smart Watch,3797,32,2399,374,Website
+2026-01-24,West,Mumbai,Electronics,Smart Watch,16128,44,417,783,Website
+2026-01-03,West,Ahmedabad,Electronics,Bluetooth Speaker,18673,1,2792,55,Flipkart
+2026-01-10,South,Chennai,Clothing,Jeans,7452,53,2112,809,Website
+2026-01-23,North,Lucknow,Beauty,Face Cream,19210,47,2906,164,App
+2026-01-05,North,Lucknow,Electronics,Wireless Earbuds,16244,28,2853,608,Retail Store
+2026-02-07,South,Hyderabad,Clothing,Men T-Shirt,11974,22,2669,1420,Retail Store
+2026-01-13,South,Bangalore,Electronics,Smart Watch,4200,39,1327,914,Flipkart
+2026-01-13,West,Ahmedabad,Home,Mixer Grinder,15311,10,275,1304,Flipkart
+2025-12-28,North,Delhi,Beauty,Perfume,9779,13,1099,690,Retail Store
+2025-12-29,South,Bangalore,Electronics,Bluetooth Speaker,14762,56,2273,674,Flipkart
+2026-01-27,North,Lucknow,Electronics,Wireless Earbuds,19745,2,1523,668,App
+2025-12-18,South,Hyderabad,Electronics,Bluetooth Speaker,7958,6,817,1495,Retail Store
+2026-01-02,North,Delhi,Clothing,Men T-Shirt,12031,13,427,908,Instagram
+2026-01-28,West,Pune,Electronics,Wireless Earbuds,11873,55,1952,1011,Flipkart
+2026-01-06,East,Bhubaneswar,Clothing,Women Kurti,10784,6,1662,1440,Flipkart
+2026-01-11,South,Bangalore,Home,Mixer Grinder,527,20,2789,956,Instagram
+2025-12-23,East,Bhubaneswar,Beauty,Perfume,18146,23,1306,1222,Amazon
+2026-01-22,South,Bangalore,Electronics,Bluetooth Speaker,3913,3,2377,678,App
+2026-01-19,South,Bangalore,Electronics,Bluetooth Speaker,19450,54,1720,82,Flipkart
+2026-01-09,East,Kolkata,Beauty,Hair Dryer,13982,57,1700,996,App
+2026-01-30,West,Mumbai,Electronics,Wireless Earbuds,8304,12,1882,725,App
+2026-01-30,South,Hyderabad,Home,Mixer Grinder,17997,52,594,349,Retail Store
+2025-12-26,West,Ahmedabad,Beauty,Face Cream,9991,34,1456,378,Instagram
+2025-12-15,East,Bhubaneswar,Beauty,Hair Dryer,1117,56,2529,315,App
+2026-02-06,West,Ahmedabad,Clothing,Women Kurti,12036,16,579,1326,Retail Store
+2026-01-02,West,Pune,Home,Mixer Grinder,12702,49,615,1024,Website
+2025-12-22,West,Mumbai,Home,Mixer Grinder,14825,25,376,1041,Instagram
+2025-12-18,South,Hyderabad,Home,Cookware Set,6433,18,531,42,Amazon
+2025-12-17,East,Bhubaneswar,Home,Cookware Set,16220,5,941,73,Flipkart
+2025-12-19,South,Chennai,Electronics,Smart Watch,8635,51,2249,850,Flipkart
+2026-01-10,West,Pune,Electronics,Bluetooth Speaker,13962,9,1375,302,Retail Store
+2025-12-13,West,Pune,Clothing,Women Kurti,3117,57,926,1378,Flipkart
+2025-12-18,East,Bhubaneswar,Home,Wall Clock,17413,36,2394,1069,Flipkart
+2026-01-04,North,Lucknow,Beauty,Hair Dryer,18068,5,1590,1404,Amazon
+2026-01-21,North,Chandigarh,Electronics,Smart Watch,3627,25,2996,858,Amazon
+2025-12-26,South,Chennai,Clothing,Men T-Shirt,17443,52,1585,1375,Instagram
+2026-01-26,South,Chennai,Beauty,Face Cream,16637,60,2872,1014,App
+2025-12-17,North,Delhi,Beauty,Face Cream,19228,32,1434,914,Flipkart
+2026-02-04,North,Delhi,Electronics,Bluetooth Speaker,13300,4,2992,979,Website
+2026-02-01,East,Patna,Electronics,Smart Watch,9855,22,188,563,Flipkart
+2025-12-24,East,Kolkata,Electronics,Wireless Earbuds,19324,53,666,1326,Retail Store
+2025-12-29,West,Ahmedabad,Beauty,Perfume,18803,33,973,1432,App
+2025-12-29,North,Lucknow,Electronics,Smart Watch,13493,25,2055,890,Retail Store
+2026-02-04,North,Delhi,Electronics,Wireless Earbuds,6550,33,2393,363,Website
+2025-12-15,North,Lucknow,Electronics,Bluetooth Speaker,12824,47,2710,160,Flipkart
+2026-02-01,West,Pune,Home,Mixer Grinder,6142,58,1732,1082,App
+2026-01-07,South,Hyderabad,Electronics,Wireless Earbuds,9980,51,1732,1030,Retail Store
+2026-01-14,South,Bangalore,Home,Mixer Grinder,6894,22,1286,1232,App
+2026-01-27,West,Ahmedabad,Beauty,Perfume,9812,15,374,968,Website
+2026-01-25,North,Delhi,Clothing,Women Kurti,6437,22,2507,812,Retail Store
+2026-02-05,North,Chandigarh,Beauty,Perfume,2696,20,554,1060,Retail Store
+2026-01-29,East,Kolkata,Clothing,Jeans,19581,44,2302,811,Instagram
+2026-02-01,West,Mumbai,Electronics,Wireless Earbuds,16433,25,1391,434,Instagram
+2026-01-06,North,Delhi,Clothing,Women Kurti,6720,35,263,1246,Amazon
+2025-12-30,North,Lucknow,Beauty,Face Cream,6778,27,2102,884,App
+2026-02-09,North,Chandigarh,Beauty,Perfume,16575,51,2449,375,Website
+2026-02-09,West,Pune,Clothing,Jeans,18520,33,2860,1241,Amazon
+2026-01-05,East,Bhubaneswar,Home,Cookware Set,3152,27,2816,413,Amazon
+2026-01-28,East,Patna,Beauty,Hair Dryer,3139,54,1696,1416,App
+2026-01-28,East,Patna,Electronics,Bluetooth Speaker,7009,14,2519,565,Flipkart
+2026-01-14,North,Chandigarh,Electronics,Bluetooth Speaker,17958,56,2409,1365,Amazon
+2025-12-29,North,Lucknow,Electronics,Wireless Earbuds,8367,46,1185,286,Retail Store
+2026-01-12,South,Chennai,Clothing,Jeans,883,38,2803,1117,Instagram
+2026-01-25,South,Bangalore,Electronics,Bluetooth Speaker,4692,39,1907,1470,Instagram
+2026-01-21,North,Lucknow,Electronics,Wireless Earbuds,4468,31,2752,692,Retail Store
+2026-02-03,West,Pune,Electronics,Wireless Earbuds,11573,24,1504,1219,Retail Store
+2025-12-31,North,Lucknow,Clothing,Men T-Shirt,3240,46,2812,772,App
+2026-01-26,West,Ahmedabad,Clothing,Women Kurti,2357,40,943,332,App
+2025-12-30,North,Chandigarh,Home,Wall Clock,15500,17,1202,467,App
+2025-12-29,South,Bangalore,Home,Wall Clock,18454,60,590,99,Instagram
+2025-12-27,West,Ahmedabad,Home,Wall Clock,14329,3,1608,382,Amazon
+2026-01-01,South,Bangalore,Beauty,Hair Dryer,9385,40,2229,1047,Retail Store
+2026-01-16,West,Pune,Beauty,Face Cream,6095,20,2157,513,Amazon
+2025-12-18,West,Ahmedabad,Clothing,Women Kurti,15938,43,1991,1035,Instagram
+2025-12-31,East,Kolkata,Clothing,Jeans,3838,1,1262,109,Flipkart
+2026-01-27,West,Pune,Electronics,Wireless Earbuds,8033,57,746,451,Flipkart
+2026-01-17,North,Chandigarh,Beauty,Perfume,6767,44,991,1462,Amazon
+2026-01-10,North,Lucknow,Clothing,Men T-Shirt,551,55,2765,1482,App
+2026-01-14,West,Ahmedabad,Electronics,Smart Watch,4945,16,1867,922,Amazon
+2025-12-28,East,Patna,Clothing,Jeans,16483,29,2725,862,Instagram
+2026-01-05,South,Bangalore,Electronics,Wireless Earbuds,15247,43,228,1400,Amazon
+2026-01-19,South,Bangalore,Clothing,Jeans,12928,37,1700,47,Website
+2025-12-17,West,Pune,Electronics,Wireless Earbuds,13797,11,1390,278,Retail Store
+2025-12-23,West,Pune,Clothing,Jeans,681,38,456,1237,Flipkart
+2026-02-06,South,Chennai,Beauty,Perfume,14668,18,2363,1056,Instagram
+2026-01-29,South,Bangalore,Clothing,Men T-Shirt,1265,4,2487,501,Instagram
+2026-01-20,East,Kolkata,Electronics,Bluetooth Speaker,18187,45,240,1021,Retail Store
+2026-02-02,North,Delhi,Electronics,Smart Watch,3759,11,1727,581,Instagram
+2026-01-27,South,Chennai,Beauty,Perfume,7303,55,1634,455,App
+2026-01-07,North,Chandigarh,Home,Mixer Grinder,4876,23,2610,355,Retail Store
+2026-01-22,South,Bangalore,Home,Wall Clock,5119,27,712,623,Flipkart
+2025-12-22,West,Mumbai,Beauty,Hair Dryer,9254,8,635,1350,Website
+2026-02-04,East,Bhubaneswar,Electronics,Wireless Earbuds,18351,37,2018,1382,App
+2026-02-02,North,Delhi,Electronics,Bluetooth Speaker,19791,15,2606,251,Flipkart
+2026-01-28,West,Ahmedabad,Clothing,Men T-Shirt,18162,49,719,601,Flipkart
+2026-01-07,North,Delhi,Home,Wall Clock,9380,10,1306,548,Flipkart
+2026-01-15,North,Lucknow,Clothing,Jeans,18313,36,329,1449,App
+2026-02-05,South,Chennai,Home,Mixer Grinder,15129,49,2738,983,Amazon
+2026-01-23,West,Mumbai,Home,Cookware Set,12061,54,1301,519,Retail Store
+2026-01-22,East,Bhubaneswar,Clothing,Jeans,9662,58,1961,1197,Retail Store
+2026-01-27,North,Lucknow,Home,Mixer Grinder,19671,37,1333,1314,App
+2025-12-24,East,Bhubaneswar,Beauty,Hair Dryer,11121,51,1101,283,Instagram
+2026-02-06,South,Chennai,Home,Mixer Grinder,5790,41,2618,1444,App
+2025-12-12,North,Lucknow,Beauty,Perfume,7709,31,423,1350,Instagram
+2026-01-31,South,Hyderabad,Home,Cookware Set,11370,26,855,1431,Instagram
+2025-12-22,West,Pune,Home,Mixer Grinder,18760,32,2185,935,Flipkart
+2026-01-30,East,Patna,Electronics,Bluetooth Speaker,11436,30,535,144,Website
+2026-02-08,North,Lucknow,Beauty,Face Cream,17326,26,1657,891,Amazon
+2026-01-27,West,Ahmedabad,Clothing,Women Kurti,2397,52,181,1199,Amazon
+2026-02-09,West,Ahmedabad,Beauty,Face Cream,19708,44,1223,1485,Instagram
+2026-01-24,East,Kolkata,Clothing,Jeans,17233,43,890,571,Retail Store
+2026-01-19,West,Pune,Beauty,Face Cream,17569,8,195,752,Retail Store
+2026-01-23,South,Bangalore,Home,Wall Clock,1447,43,2839,472,Instagram
+2025-12-12,West,Mumbai,Beauty,Face Cream,16119,35,602,498,Amazon
+2026-01-22,North,Delhi,Electronics,Wireless Earbuds,4656,17,69,828,Retail Store
+2026-01-06,West,Mumbai,Clothing,Women Kurti,9322,19,960,18,Instagram
+2026-02-04,North,Delhi,Beauty,Face Cream,18175,11,1357,545,Flipkart
+2026-01-05,West,Ahmedabad,Electronics,Wireless Earbuds,17133,46,1696,1314,Instagram
+2025-12-14,North,Chandigarh,Home,Mixer Grinder,10102,54,1489,146,Flipkart
+2026-01-02,East,Bhubaneswar,Beauty,Face Cream,6496,59,317,285,Retail Store
+2026-01-11,West,Ahmedabad,Beauty,Face Cream,16115,31,2402,576,Amazon
+2026-01-27,North,Chandigarh,Beauty,Hair Dryer,7869,14,2236,1145,Website
+2025-12-21,West,Mumbai,Home,Cookware Set,10441,16,1298,382,App
+2026-01-26,South,Bangalore,Clothing,Women Kurti,4955,42,1658,1242,Amazon
+2026-01-02,West,Pune,Home,Mixer Grinder,13699,50,2417,256,Website
+2025-12-17,East,Bhubaneswar,Clothing,Women Kurti,8881,16,1550,1023,Retail Store
+2026-02-04,West,Mumbai,Electronics,Bluetooth Speaker,3558,20,112,458,Retail Store
+2026-01-02,West,Pune,Home,Wall Clock,14176,40,1299,787,Amazon
+2026-01-02,South,Bangalore,Electronics,Smart Watch,12332,28,1170,1264,Website
+2026-01-09,North,Delhi,Clothing,Women Kurti,5952,52,613,1237,App
+2026-01-18,South,Chennai,Beauty,Hair Dryer,15017,57,2099,892,Amazon
+2026-01-07,North,Delhi,Home,Wall Clock,7075,17,439,587,Amazon
+2026-01-31,East,Bhubaneswar,Home,Wall Clock,15311,55,2176,147,Retail Store
+2026-01-09,North,Delhi,Clothing,Women Kurti,5477,6,1564,829,Website
+2025-12-20,South,Hyderabad,Beauty,Hair Dryer,2589,36,2151,1148,Retail Store
+2026-02-04,North,Delhi,Electronics,Wireless Earbuds,18237,27,508,893,Flipkart
+2026-02-07,East,Kolkata,Beauty,Perfume,8004,19,1803,942,Amazon
+2026-01-25,South,Chennai,Home,Cookware Set,14500,49,249,1371,Instagram
+2026-02-07,East,Kolkata,Beauty,Face Cream,6340,58,1030,500,App
+2025-12-25,West,Pune,Clothing,Jeans,19562,33,981,798,Retail Store
+2025-12-23,West,Pune,Home,Wall Clock,14536,31,640,136,App
+2026-01-12,South,Chennai,Electronics,Bluetooth Speaker,9338,26,2538,74,Amazon
+2025-12-25,South,Bangalore,Clothing,Men T-Shirt,12997,46,1847,1000,Amazon
+2026-02-01,West,Pune,Clothing,Men T-Shirt,4084,24,943,1115,App
+2026-02-05,East,Bhubaneswar,Home,Cookware Set,603,33,2254,755,App
+2026-02-06,North,Lucknow,Electronics,Smart Watch,6490,17,2464,730,Flipkart
+2025-12-17,North,Chandigarh,Clothing,Men T-Shirt,18318,58,954,1378,App
+2026-01-14,East,Patna,Electronics,Bluetooth Speaker,6418,48,2692,904,Retail Store
+2026-01-18,West,Ahmedabad,Home,Cookware Set,2834,2,2259,950,Amazon
+2026-01-28,South,Chennai,Beauty,Hair Dryer,15803,37,2299,79,App
+2026-01-15,East,Patna,Clothing,Jeans,1378,49,536,1146,Amazon
+2026-01-24,South,Hyderabad,Electronics,Smart Watch,3713,58,2888,140,Retail Store
+2025-12-30,West,Ahmedabad,Home,Cookware Set,9110,41,363,572,Website
+2026-01-21,North,Delhi,Beauty,Face Cream,19147,5,2439,1069,Website
+2025-12-22,South,Hyderabad,Home,Mixer Grinder,5737,36,848,895,Flipkart
+2026-01-19,West,Mumbai,Clothing,Men T-Shirt,15343,33,1069,542,Amazon
+2026-01-31,North,Chandigarh,Clothing,Women Kurti,13660,26,2621,905,Retail Store
+2026-01-08,South,Chennai,Electronics,Wireless Earbuds,19724,58,431,665,App
+2025-12-17,East,Kolkata,Clothing,Men T-Shirt,16747,9,2005,582,Instagram
+2026-01-26,West,Pune,Home,Cookware Set,13130,43,1533,1486,Instagram
+2026-01-18,West,Ahmedabad,Beauty,Perfume,6722,40,1218,1483,Instagram
+2026-01-30,East,Bhubaneswar,Home,Wall Clock,9568,55,2076,1328,Instagram
+2026-01-16,West,Mumbai,Beauty,Perfume,19734,11,801,623,App
+2026-01-30,South,Chennai,Electronics,Smart Watch,7048,55,914,1079,App
+2026-01-14,West,Ahmedabad,Home,Cookware Set,19616,53,2378,573,Amazon
+2026-01-18,South,Hyderabad,Home,Wall Clock,11597,52,2861,594,Flipkart
+2025-12-12,West,Ahmedabad,Beauty,Perfume,14796,59,560,924,Instagram
+2026-01-29,East,Kolkata,Home,Cookware Set,1153,19,2672,868,Retail Store
+2026-01-11,North,Delhi,Home,Wall Clock,10267,13,973,1427,Flipkart
+2025-12-15,South,Bangalore,Clothing,Jeans,11693,40,1316,566,Retail Store
+2025-12-29,North,Chandigarh,Electronics,Smart Watch,4900,55,2393,597,Flipkart
+2026-01-27,South,Chennai,Electronics,Bluetooth Speaker,4221,31,2190,615,App
+2025-12-16,South,Chennai,Electronics,Bluetooth Speaker,1544,45,1529,46,Amazon
+2025-12-17,West,Mumbai,Clothing,Jeans,19455,4,1969,1429,App
+2026-01-01,East,Kolkata,Home,Wall Clock,16246,31,355,431,App
+2026-01-04,North,Delhi,Clothing,Jeans,15356,34,2055,594,Website
+2025-12-22,South,Hyderabad,Electronics,Wireless Earbuds,16431,43,2819,402,Website
+2026-01-19,South,Hyderabad,Beauty,Perfume,7207,16,2403,518,Flipkart
+2026-01-22,East,Bhubaneswar,Clothing,Men T-Shirt,1127,14,1701,900,Website
+2026-01-31,North,Lucknow,Clothing,Jeans,12264,5,285,894,Amazon
+2026-01-17,South,Hyderabad,Clothing,Women Kurti,3562,44,710,1240,Retail Store
+2026-01-20,South,Bangalore,Beauty,Perfume,11720,36,2668,443,App
+2026-01-29,East,Kolkata,Beauty,Perfume,4877,57,2766,895,Website
+2026-01-07,West,Pune,Clothing,Jeans,5194,35,1105,161,Retail Store
+2026-01-06,West,Ahmedabad,Electronics,Bluetooth Speaker,9217,1,2406,1350,Website
+2026-01-15,North,Delhi,Home,Mixer Grinder,19760,9,683,1029,Instagram
+2026-02-07,North,Lucknow,Home,Mixer Grinder,12222,21,2812,880,Website
+2026-01-29,South,Bangalore,Home,Cookware Set,2045,35,208,118,Amazon
+2025-12-28,East,Bhubaneswar,Clothing,Men T-Shirt,4783,38,694,127,App
+2026-01-24,East,Kolkata,Electronics,Smart Watch,7691,47,2971,571,Flipkart
+2026-02-01,West,Mumbai,Home,Cookware Set,3924,35,155,969,App
+2025-12-30,West,Ahmedabad,Electronics,Bluetooth Speaker,4347,7,324,370,Flipkart
+2025-12-13,South,Bangalore,Home,Wall Clock,10182,5,2737,570,Instagram
+2026-01-17,West,Ahmedabad,Electronics,Bluetooth Speaker,3494,12,421,411,Instagram
+2025-12-19,East,Bhubaneswar,Beauty,Face Cream,6607,15,2838,29,Website
+2026-01-19,West,Mumbai,Home,Cookware Set,3025,53,1144,87,App
+2026-01-02,West,Pune,Beauty,Face Cream,19040,25,335,758,Instagram
+2026-01-08,East,Bhubaneswar,Home,Mixer Grinder,16180,23,1986,826,Flipkart
+2025-12-18,South,Hyderabad,Electronics,Smart Watch,3250,51,2828,732,Instagram
+2026-01-11,East,Bhubaneswar,Clothing,Men T-Shirt,18689,15,988,978,Flipkart
+2026-01-31,South,Chennai,Clothing,Jeans,17673,3,1412,989,Website
+2026-02-08,East,Patna,Beauty,Perfume,14181,42,2157,118,Amazon
+2025-12-24,North,Chandigarh,Electronics,Bluetooth Speaker,18445,25,1055,457,Website
+2026-01-29,East,Bhubaneswar,Clothing,Men T-Shirt,9615,50,550,173,Flipkart
+2026-01-14,North,Chandigarh,Home,Cookware Set,17579,29,2454,1246,App
+2026-02-06,West,Ahmedabad,Home,Cookware Set,13497,40,2608,1018,Instagram
+2026-01-16,North,Delhi,Home,Mixer Grinder,14661,60,1460,1337,App
+2026-02-09,East,Bhubaneswar,Electronics,Bluetooth Speaker,2486,55,151,147,Amazon
+2026-01-16,North,Lucknow,Electronics,Smart Watch,6799,60,2043,785,Instagram
+2026-01-29,North,Delhi,Electronics,Bluetooth Speaker,19486,5,2643,1408,Instagram
+2025-12-31,South,Hyderabad,Home,Wall Clock,3479,9,2096,586,Retail Store
+2026-01-28,East,Kolkata,Home,Mixer Grinder,11972,30,2283,1458,App
+2026-01-21,West,Mumbai,Clothing,Jeans,2634,3,1867,1421,App
+2026-01-30,North,Delhi,Beauty,Perfume,19997,23,1814,1203,Amazon
+2026-01-15,North,Delhi,Clothing,Jeans,6448,12,825,1043,Website
+2026-01-22,West,Ahmedabad,Electronics,Wireless Earbuds,1781,4,788,241,App
+2026-02-08,South,Chennai,Beauty,Hair Dryer,18184,4,1310,308,Flipkart
+2025-12-25,East,Patna,Home,Cookware Set,17606,46,493,358,Instagram
+2026-01-17,South,Hyderabad,Home,Mixer Grinder,2957,11,2284,1065,Amazon
+2026-01-06,North,Delhi,Home,Wall Clock,11209,38,2150,1419,Amazon
+2026-02-09,East,Bhubaneswar,Electronics,Wireless Earbuds,10957,34,1166,1354,Instagram
+2026-01-19,North,Chandigarh,Electronics,Bluetooth Speaker,6531,58,413,1461,Website
+2026-01-05,North,Chandigarh,Home,Cookware Set,7722,56,259,562,Retail Store
+2026-01-03,West,Ahmedabad,Electronics,Bluetooth Speaker,10139,7,1210,537,App
+2026-01-14,North,Lucknow,Beauty,Perfume,14096,29,1089,373,App
+2026-01-26,South,Hyderabad,Beauty,Hair Dryer,15823,51,1814,11,Instagram
+2026-01-30,South,Bangalore,Electronics,Bluetooth Speaker,9631,50,2051,19,Retail Store
+2026-01-30,East,Kolkata,Electronics,Wireless Earbuds,4289,9,1042,379,App
+2026-01-30,North,Delhi,Beauty,Perfume,16445,32,1042,1327,Instagram
+2025-12-26,West,Ahmedabad,Beauty,Face Cream,18047,34,1720,576,Instagram
+2026-01-14,North,Delhi,Clothing,Jeans,14498,31,838,652,Instagram
+2026-01-09,South,Bangalore,Beauty,Face Cream,4631,34,2487,69,App
+2025-12-23,East,Kolkata,Electronics,Bluetooth Speaker,8060,51,91,962,Flipkart
+2026-01-09,East,Kolkata,Beauty,Face Cream,17550,21,1491,1017,Website
+2026-01-18,West,Ahmedabad,Clothing,Men T-Shirt,13278,35,556,1321,Website
+2026-01-05,West,Mumbai,Clothing,Men T-Shirt,10437,23,1863,908,App
+2026-01-10,West,Ahmedabad,Home,Cookware Set,9656,11,1752,1232,Flipkart
+2026-01-02,West,Ahmedabad,Clothing,Jeans,14278,19,220,410,Retail Store
+2026-02-04,North,Lucknow,Home,Wall Clock,18753,57,2031,1014,Flipkart
+2026-01-13,North,Lucknow,Clothing,Jeans,6442,3,1510,812,Amazon
+2026-02-08,South,Hyderabad,Beauty,Perfume,12695,37,2005,431,Flipkart
+2026-02-02,West,Mumbai,Clothing,Jeans,19271,17,2649,462,Retail Store
+2026-01-23,North,Lucknow,Home,Mixer Grinder,3141,34,402,580,Amazon
+2025-12-20,West,Pune,Home,Wall Clock,5273,56,2544,505,App
+2026-02-09,North,Chandigarh,Electronics,Bluetooth Speaker,9847,44,562,37,Retail Store
+2025-12-15,North,Chandigarh,Beauty,Perfume,17794,47,880,620,Website
+2026-01-02,South,Chennai,Clothing,Women Kurti,14058,14,1916,644,Amazon
+2025-12-20,East,Kolkata,Electronics,Smart Watch,4910,35,2614,1294,Retail Store
+2026-01-16,North,Delhi,Beauty,Perfume,19216,23,2909,1470,Website
+2025-12-24,South,Chennai,Clothing,Jeans,13052,50,574,179,App
+2026-02-06,East,Bhubaneswar,Electronics,Smart Watch,15090,17,73,512,Retail Store
+2026-01-04,South,Hyderabad,Electronics,Wireless Earbuds,13710,33,2222,999,Website
+2026-01-30,West,Pune,Home,Mixer Grinder,8240,39,2877,1304,Instagram
+2025-12-28,East,Patna,Home,Wall Clock,14684,54,117,1397,Instagram
+2026-01-09,West,Pune,Home,Cookware Set,13712,45,1771,473,App
+2025-12-31,East,Kolkata,Clothing,Jeans,3293,45,2360,1243,Flipkart
+2026-01-08,North,Chandigarh,Beauty,Perfume,5548,47,2840,740,Amazon
+2026-02-01,East,Bhubaneswar,Home,Cookware Set,12151,8,857,1088,Retail Store
+2026-01-26,South,Hyderabad,Clothing,Men T-Shirt,15185,24,1803,1244,App
+2025-12-24,West,Ahmedabad,Beauty,Hair Dryer,18574,45,2240,950,Website
+2026-01-18,North,Chandigarh,Electronics,Wireless Earbuds,18964,50,2724,505,Amazon
+2025-12-22,East,Kolkata,Clothing,Women Kurti,1713,37,1071,747,Flipkart
+2026-02-06,West,Mumbai,Beauty,Hair Dryer,17301,50,1652,924,Retail Store
+2026-01-19,East,Bhubaneswar,Home,Cookware Set,958,6,1851,385,Amazon
+2026-01-29,North,Delhi,Home,Wall Clock,3460,46,724,1008,Website
+2026-01-21,West,Mumbai,Electronics,Smart Watch,11651,14,1402,792,Instagram
+2026-01-03,West,Pune,Electronics,Wireless Earbuds,15476,36,2382,399,Website
+2026-01-26,North,Lucknow,Clothing,Men T-Shirt,13625,59,488,657,App
+2026-01-03,East,Kolkata,Clothing,Men T-Shirt,17692,34,1660,470,Instagram
+2026-01-01,West,Pune,Beauty,Hair Dryer,19589,27,927,1015,Instagram
+2026-02-04,North,Lucknow,Home,Wall Clock,12225,26,2321,1318,Website
+2026-02-07,East,Kolkata,Beauty,Perfume,3972,31,1661,1169,Flipkart
+2025-12-16,North,Delhi,Beauty,Face Cream,6095,48,653,1127,Flipkart
+2026-02-01,West,Mumbai,Beauty,Hair Dryer,9262,59,640,674,App
+2025-12-19,East,Patna,Beauty,Face Cream,5077,36,60,270,Flipkart
+2026-01-24,West,Mumbai,Clothing,Jeans,8448,9,1124,555,App
+2026-01-18,East,Bhubaneswar,Clothing,Jeans,10870,37,2425,741,App
+2026-02-09,East,Patna,Home,Cookware Set,9418,34,1041,1419,Instagram
+2026-01-23,West,Pune,Beauty,Perfume,9853,8,1256,1264,Amazon
+2025-12-29,East,Kolkata,Clothing,Men T-Shirt,10130,30,969,1272,Flipkart
+2026-01-20,South,Bangalore,Clothing,Women Kurti,15445,25,1105,1391,Retail Store
+2025-12-20,East,Kolkata,Electronics,Smart Watch,11364,26,2829,498,Website
+2026-01-08,West,Mumbai,Electronics,Bluetooth Speaker,13080,37,2752,244,Website
+2026-01-10,North,Chandigarh,Beauty,Face Cream,12627,45,1055,622,Amazon
+2026-01-24,West,Mumbai,Home,Cookware Set,5357,17,1485,271,Flipkart
+2026-02-06,South,Chennai,Electronics,Bluetooth Speaker,7990,50,2675,1442,Amazon
+2026-01-22,South,Hyderabad,Electronics,Bluetooth Speaker,19930,52,1945,1443,Retail Store
+2026-01-11,East,Bhubaneswar,Home,Cookware Set,9054,4,2627,377,Retail Store
+2026-02-02,North,Chandigarh,Beauty,Hair Dryer,3087,13,218,339,Flipkart
+2026-01-20,South,Bangalore,Home,Wall Clock,17032,41,2083,292,Amazon
+2026-01-08,South,Chennai,Home,Cookware Set,9316,48,2076,1281,App
+2025-12-20,East,Kolkata,Home,Cookware Set,15318,35,1999,152,App
+2026-01-13,South,Chennai,Clothing,Men T-Shirt,13194,42,1370,1035,Retail Store
+2025-12-24,West,Ahmedabad,Beauty,Face Cream,1432,3,1030,61,App
+2026-02-05,South,Bangalore,Electronics,Bluetooth Speaker,17220,12,849,1429,Amazon
+2026-01-24,East,Bhubaneswar,Electronics,Wireless Earbuds,11029,31,1876,1232,Website
+2025-12-26,North,Delhi,Home,Mixer Grinder,11331,23,1701,871,Amazon
+2026-01-04,West,Mumbai,Electronics,Wireless Earbuds,10601,39,949,247,Retail Store
+2026-01-28,North,Delhi,Home,Cookware Set,18197,19,329,1295,Amazon
+2026-02-04,South,Hyderabad,Home,Mixer Grinder,8033,57,394,752,Retail Store
+2026-02-07,West,Mumbai,Clothing,Women Kurti,3568,49,1484,197,Amazon
+2026-01-02,West,Ahmedabad,Beauty,Face Cream,5750,48,2725,1456,App
+2026-01-09,South,Chennai,Clothing,Men T-Shirt,5093,58,295,86,Retail Store
+2026-01-25,North,Chandigarh,Electronics,Wireless Earbuds,16689,60,372,403,Flipkart
+2026-01-19,North,Chandigarh,Electronics,Smart Watch,18138,34,58,167,Website
+2026-01-02,North,Chandigarh,Home,Mixer Grinder,14206,46,2704,1018,Website
+2025-12-27,South,Bangalore,Beauty,Hair Dryer,19806,56,1524,21,Instagram
+2025-12-25,South,Bangalore,Clothing,Jeans,11027,57,1818,1498,Website
+2026-01-13,North,Delhi,Beauty,Hair Dryer,14700,9,2376,668,Flipkart
+2026-02-05,South,Chennai,Electronics,Smart Watch,7640,15,1778,653,Amazon
+2026-01-04,South,Chennai,Home,Mixer Grinder,9187,55,2126,960,Website
+2025-12-13,West,Ahmedabad,Home,Cookware Set,9840,48,615,166,Retail Store
+2025-12-20,South,Chennai,Clothing,Jeans,11425,21,217,1323,Flipkart
+2026-01-09,West,Mumbai,Home,Wall Clock,18261,8,2805,601,Retail Store
+2026-01-04,West,Mumbai,Beauty,Perfume,1349,7,2089,270,Retail Store
+2026-02-03,North,Delhi,Clothing,Jeans,2094,40,1012,1167,Retail Store
+2026-01-25,South,Hyderabad,Electronics,Wireless Earbuds,16289,15,2065,898,Website
+2026-01-06,East,Patna,Beauty,Perfume,13647,21,2636,996,App
+2026-01-13,North,Chandigarh,Home,Cookware Set,14366,5,1007,366,App
+2025-12-23,North,Delhi,Home,Cookware Set,6492,5,2913,166,Instagram
+2026-01-26,East,Bhubaneswar,Beauty,Hair Dryer,17622,26,2702,552,Instagram
+2025-12-19,West,Ahmedabad,Clothing,Men T-Shirt,7643,7,310,307,Website
+2026-01-27,North,Lucknow,Beauty,Face Cream,4366,33,911,1169,Amazon
+2026-01-13,East,Bhubaneswar,Home,Cookware Set,603,39,394,383,Amazon
+2026-01-13,West,Pune,Beauty,Face Cream,17467,56,372,1065,Instagram
+2026-01-11,South,Chennai,Home,Wall Clock,10475,17,2636,1284,Website
+2026-01-09,South,Bangalore,Beauty,Hair Dryer,10618,60,1223,879,Flipkart
+2025-12-19,North,Chandigarh,Electronics,Smart Watch,5416,31,515,1489,Instagram
+2025-12-17,East,Patna,Home,Cookware Set,12351,17,1656,104,App
+2026-01-16,South,Chennai,Home,Mixer Grinder,19869,55,1207,320,Retail Store
+2026-02-07,East,Kolkata,Beauty,Face Cream,18835,43,2904,174,App
+2026-02-06,South,Hyderabad,Electronics,Bluetooth Speaker,5332,38,1719,231,Amazon
+2026-01-28,West,Ahmedabad,Home,Cookware Set,9252,21,164,846,Instagram
+2026-01-10,East,Bhubaneswar,Beauty,Face Cream,10604,55,2868,1284,App
+2026-02-08,West,Pune,Home,Wall Clock,4159,15,79,1018,App
+2025-12-21,North,Chandigarh,Electronics,Wireless Earbuds,3700,10,1611,885,App
+2025-12-31,East,Bhubaneswar,Beauty,Perfume,11718,12,2075,715,Amazon
+2026-01-10,West,Pune,Beauty,Hair Dryer,8172,27,1056,24,Retail Store
+2025-12-16,South,Hyderabad,Home,Mixer Grinder,3538,33,729,1257,Instagram
+2026-01-08,West,Pune,Home,Mixer Grinder,12372,18,1933,1226,Website
+2025-12-19,West,Pune,Clothing,Men T-Shirt,2205,12,455,271,Amazon
+2026-01-18,South,Bangalore,Home,Mixer Grinder,13555,51,571,672,Instagram
+2026-01-23,South,Chennai,Electronics,Bluetooth Speaker,9176,31,111,1432,App
+2025-12-26,South,Bangalore,Home,Mixer Grinder,15591,39,2997,845,Website
+2025-12-29,North,Chandigarh,Beauty,Hair Dryer,18885,33,1388,678,Retail Store
+2026-01-01,West,Mumbai,Electronics,Wireless Earbuds,18378,21,1007,358,Amazon
+2026-01-27,North,Chandigarh,Beauty,Perfume,18247,44,2517,452,Flipkart
+2026-02-08,West,Pune,Beauty,Perfume,10532,48,601,717,Website
+2025-12-30,South,Bangalore,Home,Cookware Set,17147,59,197,416,Instagram
+2025-12-15,North,Chandigarh,Clothing,Jeans,1114,32,639,1237,Flipkart
+2026-02-02,East,Kolkata,Electronics,Smart Watch,11162,36,553,554,Instagram
+2025-12-19,South,Hyderabad,Home,Mixer Grinder,6326,6,2045,682,Website
+2026-01-19,West,Ahmedabad,Clothing,Jeans,2777,12,2656,125,Flipkart
+2026-01-23,North,Chandigarh,Beauty,Hair Dryer,12196,27,2459,821,App
+2026-01-25,South,Bangalore,Electronics,Smart Watch,13481,9,2252,552,Website
+2025-12-15,North,Delhi,Beauty,Perfume,9949,45,854,458,Retail Store
+2025-12-25,East,Bhubaneswar,Beauty,Perfume,8445,5,2887,481,App
+2025-12-24,East,Bhubaneswar,Beauty,Hair Dryer,14115,43,1094,455,Flipkart
+2026-02-04,West,Pune,Beauty,Hair Dryer,2013,8,157,439,Website
+2026-01-30,South,Chennai,Electronics,Bluetooth Speaker,3177,49,2952,220,Amazon
+2026-01-25,North,Delhi,Electronics,Bluetooth Speaker,7675,50,1713,102,Instagram
+2025-12-25,South,Hyderabad,Electronics,Wireless Earbuds,18518,42,1166,1169,App
+2026-02-06,East,Patna,Home,Wall Clock,10340,55,2138,114,App
+2026-01-14,South,Chennai,Beauty,Hair Dryer,3338,34,2026,1099,App
+2026-01-22,West,Pune,Clothing,Jeans,7599,29,277,1062,Retail Store
+2026-01-06,East,Bhubaneswar,Beauty,Face Cream,13980,47,541,1215,Retail Store
+2025-12-15,South,Chennai,Home,Cookware Set,5456,19,795,1149,Website
+2026-01-28,South,Chennai,Clothing,Women Kurti,1339,9,2608,488,Amazon
+2025-12-24,West,Pune,Electronics,Bluetooth Speaker,960,46,222,1096,App
+2026-01-20,West,Ahmedabad,Electronics,Bluetooth Speaker,5022,14,657,1119,Amazon
+2025-12-22,West,Pune,Clothing,Jeans,13305,7,2371,889,Flipkart
+2026-01-02,West,Ahmedabad,Beauty,Face Cream,12776,60,2697,600,App
+2026-01-15,West,Pune,Electronics,Wireless Earbuds,19281,27,1293,464,Retail Store
+2025-12-23,North,Chandigarh,Home,Mixer Grinder,16068,5,665,1291,Flipkart
+2026-02-08,West,Ahmedabad,Electronics,Bluetooth Speaker,6152,41,1420,1338,Flipkart
+2025-12-22,West,Pune,Home,Wall Clock,6236,34,1176,695,Instagram
+2026-01-24,North,Chandigarh,Home,Mixer Grinder,14658,57,673,1121,Amazon
+2026-01-26,West,Pune,Home,Mixer Grinder,8726,11,707,886,Instagram
+2026-01-29,East,Patna,Clothing,Men T-Shirt,9130,31,2165,993,Instagram
+2026-01-15,West,Ahmedabad,Home,Mixer Grinder,10182,28,2578,1048,Website
+2026-02-02,North,Lucknow,Clothing,Jeans,3879,44,2243,180,App
+2026-01-09,East,Bhubaneswar,Electronics,Wireless Earbuds,8754,10,738,1185,Amazon
+2026-01-05,East,Patna,Beauty,Hair Dryer,11914,7,2091,182,Website
+2026-01-14,North,Chandigarh,Electronics,Wireless Earbuds,4841,10,1282,1481,Website
+2026-02-04,East,Bhubaneswar,Electronics,Bluetooth Speaker,4274,45,1515,1487,Website
+2026-02-05,South,Bangalore,Beauty,Hair Dryer,16789,58,1456,834,Flipkart
+2026-01-10,South,Chennai,Clothing,Women Kurti,2304,8,2025,581,Amazon
+2026-01-21,South,Chennai,Beauty,Perfume,2181,16,2506,56,Website
+2026-02-09,East,Patna,Clothing,Men T-Shirt,3264,54,756,1343,Flipkart
+2026-02-02,East,Patna,Home,Cookware Set,14489,10,1818,1496,Retail Store
+2026-01-11,East,Patna,Home,Mixer Grinder,2136,29,1446,931,Flipkart
+2026-01-31,South,Bangalore,Electronics,Wireless Earbuds,2254,30,520,795,App
+2026-01-27,West,Pune,Electronics,Wireless Earbuds,2191,49,474,651,Amazon
+2026-01-29,South,Bangalore,Beauty,Face Cream,6865,19,2978,1131,Website
+2025-12-15,East,Bhubaneswar,Home,Cookware Set,10332,52,2718,27,Instagram
+2025-12-19,North,Delhi,Beauty,Perfume,1641,42,521,521,App
+2026-01-30,East,Kolkata,Clothing,Women Kurti,4288,22,1561,1173,App
+2026-01-11,South,Bangalore,Clothing,Jeans,728,27,1633,1008,Amazon
+2025-12-31,North,Lucknow,Beauty,Perfume,5206,11,2088,1380,Instagram
+2026-02-04,North,Chandigarh,Beauty,Face Cream,12431,46,1881,617,Retail Store
+2025-12-16,East,Patna,Clothing,Women Kurti,10812,38,254,994,Instagram
+2026-01-21,South,Chennai,Clothing,Women Kurti,4471,54,2883,743,Instagram
+2026-01-23,West,Pune,Electronics,Wireless Earbuds,1378,54,2895,1498,Retail Store
+2025-12-22,East,Kolkata,Home,Mixer Grinder,10732,51,1750,107,Website
+2026-01-13,East,Patna,Home,Cookware Set,9985,56,1039,226,Flipkart
+2026-01-29,North,Lucknow,Clothing,Jeans,2850,9,1200,1112,Website
+2026-01-05,North,Chandigarh,Beauty,Face Cream,8777,17,2996,88,Retail Store
+2026-01-27,North,Chandigarh,Beauty,Perfume,6827,33,1116,1290,App
+2025-12-20,North,Lucknow,Electronics,Smart Watch,4453,41,273,761,Website
+2025-12-26,North,Delhi,Electronics,Bluetooth Speaker,12122,27,566,460,Retail Store
+2026-01-01,North,Delhi,Beauty,Face Cream,12784,51,2014,917,Website
+2026-01-26,South,Bangalore,Electronics,Smart Watch,19333,50,578,814,Instagram
+2026-01-20,East,Bhubaneswar,Beauty,Face Cream,14642,9,330,1177,Retail Store
+2026-01-30,North,Lucknow,Beauty,Hair Dryer,1954,55,1927,154,Flipkart
+2026-01-21,South,Hyderabad,Home,Mixer Grinder,11979,46,2357,1067,Instagram
+2025-12-13,West,Pune,Beauty,Face Cream,17728,24,1436,573,Website
+2026-02-09,East,Kolkata,Clothing,Men T-Shirt,4970,24,1842,1362,Amazon
+2025-12-23,South,Chennai,Clothing,Women Kurti,2359,20,2672,661,Instagram
+2025-12-16,South,Bangalore,Home,Mixer Grinder,9996,43,1904,977,Amazon
+2026-01-27,South,Chennai,Clothing,Women Kurti,3022,26,916,193,Instagram
+2026-01-13,West,Ahmedabad,Beauty,Face Cream,12515,10,1631,557,Flipkart
+2026-01-05,West,Mumbai,Home,Cookware Set,5272,37,69,150,Website
+2026-01-06,North,Delhi,Home,Mixer Grinder,8773,43,1198,297,App
+2026-01-05,East,Patna,Home,Wall Clock,11975,37,821,996,Website
+2025-12-27,North,Lucknow,Home,Wall Clock,9435,42,2285,1169,App
+2026-01-31,South,Bangalore,Beauty,Face Cream,16104,10,1518,1059,Amazon
+2026-01-26,West,Mumbai,Electronics,Smart Watch,2906,32,2045,898,Amazon
+2026-01-31,South,Hyderabad,Electronics,Wireless Earbuds,3346,41,304,1007,Website
+2026-02-02,East,Bhubaneswar,Electronics,Smart Watch,3107,14,608,1403,Retail Store
+2026-01-07,South,Hyderabad,Beauty,Face Cream,10203,44,1649,605,Retail Store
+2025-12-14,South,Bangalore,Electronics,Bluetooth Speaker,8837,29,205,836,App
+2026-02-05,East,Patna,Beauty,Face Cream,17563,2,1159,1494,App
+2025-12-29,East,Patna,Home,Wall Clock,17454,11,124,356,Website
+2025-12-19,North,Chandigarh,Beauty,Hair Dryer,12677,4,2272,1322,Instagram
+2026-01-31,North,Lucknow,Clothing,Men T-Shirt,12548,44,2710,981,Instagram
+2026-01-17,South,Hyderabad,Clothing,Men T-Shirt,773,10,1043,557,App
+2026-01-02,West,Ahmedabad,Electronics,Smart Watch,4139,51,2938,374,Retail Store
+2026-01-02,West,Ahmedabad,Electronics,Bluetooth Speaker,11066,45,2682,1296,Website
+2026-01-22,South,Hyderabad,Home,Wall Clock,910,57,1028,949,Amazon
+2026-01-20,West,Mumbai,Electronics,Wireless Earbuds,10361,27,214,872,Amazon
+2026-01-15,North,Delhi,Clothing,Women Kurti,4117,4,2061,400,Amazon
+2025-12-15,East,Patna,Beauty,Face Cream,11510,36,2524,1440,Flipkart
+2025-12-26,East,Bhubaneswar,Clothing,Women Kurti,12714,8,2932,1324,Instagram
+2026-01-02,East,Patna,Clothing,Jeans,19889,4,1571,889,App
+2026-01-30,East,Bhubaneswar,Beauty,Face Cream,2295,38,1887,934,Amazon
+2025-12-28,East,Bhubaneswar,Home,Wall Clock,17314,26,2296,805,Website
+2025-12-26,East,Bhubaneswar,Home,Wall Clock,1852,16,738,775,Amazon
+2025-12-31,South,Chennai,Clothing,Men T-Shirt,715,20,2093,77,Retail Store
+2026-01-19,East,Bhubaneswar,Clothing,Jeans,7948,49,351,1425,Retail Store
+2026-01-19,South,Hyderabad,Clothing,Women Kurti,14772,19,2583,1474,Amazon
+2026-01-23,East,Bhubaneswar,Home,Mixer Grinder,16524,6,2038,1108,Amazon
+2026-01-24,West,Ahmedabad,Clothing,Men T-Shirt,2352,10,2581,145,Flipkart
+2026-01-26,East,Patna,Clothing,Men T-Shirt,8332,49,511,418,Amazon
+2026-01-23,South,Hyderabad,Clothing,Jeans,8546,2,2787,1308,Flipkart
+2025-12-12,West,Ahmedabad,Electronics,Bluetooth Speaker,19696,37,1079,1460,Instagram
+2026-02-01,South,Chennai,Electronics,Smart Watch,14467,13,2092,564,App
+2026-01-30,West,Ahmedabad,Clothing,Women Kurti,9062,37,2085,247,App
+2026-01-31,West,Pune,Clothing,Men T-Shirt,2903,2,585,977,Website
+2025-12-12,North,Delhi,Beauty,Hair Dryer,6229,34,1997,473,Retail Store
+2026-01-14,West,Mumbai,Beauty,Hair Dryer,9977,60,1799,1402,App
+2025-12-28,North,Delhi,Beauty,Perfume,9937,50,2369,670,App
+2026-02-01,North,Lucknow,Electronics,Bluetooth Speaker,19435,60,1454,393,App
+2025-12-28,East,Kolkata,Clothing,Men T-Shirt,12871,33,2539,372,App
+2026-02-09,North,Lucknow,Beauty,Face Cream,19393,22,1648,207,Instagram
+2026-02-04,South,Bangalore,Home,Wall Clock,1909,57,2771,936,Retail Store
+2025-12-19,South,Hyderabad,Home,Mixer Grinder,7844,36,232,178,Instagram
+2026-01-28,West,Mumbai,Beauty,Face Cream,11973,32,1629,725,Flipkart
+2025-12-16,West,Pune,Home,Mixer Grinder,15107,4,2243,1498,Flipkart
+2026-01-25,East,Bhubaneswar,Clothing,Women Kurti,1981,54,2242,856,Retail Store
+2025-12-23,North,Delhi,Home,Wall Clock,2422,9,1286,278,Flipkart
+2026-01-15,West,Mumbai,Electronics,Bluetooth Speaker,12588,34,285,1151,Website
+2026-01-18,South,Chennai,Clothing,Men T-Shirt,5666,18,717,1438,Amazon
+2026-02-01,East,Bhubaneswar,Electronics,Smart Watch,565,30,646,510,Flipkart
+2026-01-21,West,Mumbai,Electronics,Smart Watch,7778,39,2215,1340,Website
+2025-12-18,West,Mumbai,Beauty,Perfume,16867,34,1383,44,Flipkart
+2026-01-04,West,Mumbai,Home,Wall Clock,12736,46,2550,811,Amazon
+2026-01-09,East,Kolkata,Home,Wall Clock,5935,11,2305,1364,Flipkart
+2025-12-31,East,Patna,Beauty,Face Cream,3052,29,926,379,Instagram
+2025-12-24,South,Chennai,Electronics,Smart Watch,7133,13,2868,25,Website
+2026-01-24,North,Delhi,Electronics,Wireless Earbuds,8110,53,1757,1262,Website
+2026-01-11,East,Patna,Home,Mixer Grinder,18784,46,920,587,Retail Store
+2025-12-12,North,Delhi,Beauty,Hair Dryer,9767,49,2947,918,Instagram
+2026-01-21,North,Lucknow,Home,Cookware Set,13609,27,2205,123,Amazon
+2026-01-01,North,Chandigarh,Electronics,Smart Watch,17705,16,2782,1300,Website
+2025-12-25,West,Mumbai,Electronics,Bluetooth Speaker,2528,10,1688,390,Flipkart
+2025-12-19,West,Ahmedabad,Home,Mixer Grinder,17171,47,630,1245,App
+2026-01-15,North,Delhi,Clothing,Men T-Shirt,15833,54,93,1436,Website
+2025-12-22,South,Chennai,Clothing,Jeans,13348,44,2059,1215,Retail Store
+2026-01-10,South,Chennai,Electronics,Bluetooth Speaker,9819,36,667,1004,Website
+2025-12-31,North,Chandigarh,Clothing,Women Kurti,787,52,2655,184,Instagram
+2026-01-05,West,Mumbai,Beauty,Face Cream,17041,47,2937,733,Instagram
+2025-12-14,South,Bangalore,Home,Wall Clock,6052,44,1959,1086,Instagram
+2026-01-02,West,Pune,Beauty,Hair Dryer,10427,33,1111,759,Flipkart
+2025-12-24,South,Bangalore,Beauty,Hair Dryer,11563,59,1856,249,Retail Store
+2025-12-23,East,Patna,Clothing,Jeans,7582,52,289,441,Website
+2025-12-18,West,Ahmedabad,Beauty,Face Cream,18866,29,591,788,Website
+2026-02-05,East,Kolkata,Electronics,Wireless Earbuds,9592,56,1577,654,Flipkart
+2025-12-23,West,Mumbai,Beauty,Perfume,3976,8,2115,376,Website
+2026-01-25,South,Chennai,Beauty,Face Cream,16698,25,2603,940,Website
+2025-12-12,East,Kolkata,Beauty,Hair Dryer,6836,7,631,715,Instagram
+2026-01-21,West,Pune,Home,Mixer Grinder,5938,41,2203,1051,Instagram
+2026-01-21,North,Lucknow,Electronics,Wireless Earbuds,16280,13,2000,694,App
+2025-12-24,North,Delhi,Beauty,Face Cream,10441,31,2203,546,Flipkart
+2025-12-22,North,Delhi,Beauty,Face Cream,7606,45,783,117,App
+2025-12-19,West,Mumbai,Clothing,Jeans,7288,12,1680,530,Retail Store
+2025-12-31,East,Kolkata,Clothing,Men T-Shirt,3144,9,2467,429,Flipkart
+2026-01-28,East,Kolkata,Electronics,Wireless Earbuds,19113,17,542,1378,Website
+2026-01-15,West,Ahmedabad,Beauty,Hair Dryer,16703,8,124,1020,Flipkart
+2026-01-27,South,Chennai,Beauty,Perfume,7754,22,1656,256,Amazon
+2025-12-13,North,Lucknow,Beauty,Perfume,997,18,660,706,Amazon
+2025-12-13,South,Chennai,Home,Cookware Set,7978,23,1374,245,Amazon
+2026-01-26,West,Mumbai,Clothing,Men T-Shirt,9476,49,2086,1243,Amazon
+2026-01-06,West,Pune,Beauty,Hair Dryer,4952,34,2365,1267,Flipkart
+2026-02-05,East,Patna,Electronics,Bluetooth Speaker,13112,55,622,926,Website
+2026-01-29,South,Bangalore,Home,Cookware Set,16635,56,2048,1367,Retail Store
+2026-01-08,West,Mumbai,Home,Wall Clock,3490,53,590,535,Flipkart
+2026-01-28,East,Patna,Clothing,Jeans,8662,30,119,619,Instagram
+2026-01-05,East,Kolkata,Clothing,Jeans,17286,11,2325,41,Amazon
+2026-01-09,West,Pune,Electronics,Wireless Earbuds,19489,37,1664,1101,App
+2026-01-15,East,Bhubaneswar,Home,Cookware Set,7454,46,583,1057,Flipkart
+2026-01-27,South,Chennai,Home,Wall Clock,12032,56,2121,45,Instagram
+2025-12-23,East,Bhubaneswar,Electronics,Wireless Earbuds,10416,36,2838,685,App
+2026-01-04,South,Hyderabad,Clothing,Men T-Shirt,16872,32,2334,312,Retail Store
+2026-01-06,West,Ahmedabad,Home,Mixer Grinder,11430,54,963,890,App
+2025-12-29,South,Chennai,Electronics,Bluetooth Speaker,6099,46,833,1437,Instagram
+2025-12-12,West,Pune,Home,Mixer Grinder,19113,14,1726,1195,Website
+2025-12-26,South,Hyderabad,Electronics,Wireless Earbuds,11866,60,171,1304,Website
+2025-12-19,South,Bangalore,Clothing,Jeans,10601,11,2021,975,Instagram
+2025-12-13,East,Patna,Clothing,Jeans,13019,53,2005,339,Website
+2026-01-16,North,Delhi,Clothing,Women Kurti,17164,4,704,127,Instagram
+2026-01-10,South,Chennai,Clothing,Jeans,18281,31,1149,881,Website
+2025-12-13,East,Patna,Clothing,Jeans,19457,14,1405,782,Retail Store
+2026-01-18,North,Delhi,Clothing,Jeans,6358,30,1422,1450,Instagram
+2025-12-20,South,Bangalore,Beauty,Hair Dryer,12506,27,1715,190,Amazon
+2025-12-28,South,Chennai,Beauty,Perfume,4101,57,1800,1333,Flipkart
+2025-12-13,East,Patna,Home,Cookware Set,15592,57,2355,19,Amazon
+2026-01-05,East,Bhubaneswar,Beauty,Hair Dryer,10443,33,917,747,Flipkart
+2025-12-30,East,Bhubaneswar,Home,Mixer Grinder,2295,4,830,19,App
+2026-01-31,South,Bangalore,Home,Mixer Grinder,8159,4,261,264,Retail Store
+2026-02-09,East,Kolkata,Home,Mixer Grinder,10634,38,1553,396,Retail Store
+2026-02-02,East,Patna,Beauty,Perfume,13171,1,179,88,Amazon
+2026-01-18,West,Pune,Beauty,Perfume,684,10,551,545,App
+2026-01-19,East,Kolkata,Electronics,Wireless Earbuds,19669,3,1907,462,Website
+2026-01-11,East,Patna,Electronics,Bluetooth Speaker,18485,5,2929,1436,Flipkart
+2025-12-27,West,Pune,Beauty,Perfume,6024,24,1392,1,Retail Store
+2026-01-07,East,Patna,Home,Wall Clock,14686,38,2899,1293,Flipkart
+2026-01-17,West,Pune,Electronics,Smart Watch,19071,28,1324,713,Website
+2026-01-04,South,Bangalore,Electronics,Bluetooth Speaker,7952,38,928,1168,App
+2025-12-30,South,Bangalore,Home,Mixer Grinder,8113,19,1859,146,Website
+2025-12-17,South,Hyderabad,Beauty,Face Cream,787,4,719,152,Amazon
+2026-02-09,South,Bangalore,Clothing,Jeans,9298,16,1178,403,Flipkart
+2026-01-28,West,Pune,Clothing,Men T-Shirt,2357,40,2632,893,Website
+2026-01-02,East,Patna,Home,Wall Clock,1003,59,1444,987,Flipkart
+2026-01-31,North,Chandigarh,Clothing,Women Kurti,14817,48,901,1143,Flipkart
+2025-12-18,East,Kolkata,Electronics,Smart Watch,19147,20,2506,430,App
+2026-02-06,South,Hyderabad,Clothing,Jeans,720,30,1198,494,Website
+2025-12-29,North,Delhi,Beauty,Perfume,8030,33,1323,913,Website
+2025-12-21,North,Lucknow,Electronics,Bluetooth Speaker,6133,51,2178,408,Flipkart
+2025-12-26,East,Kolkata,Home,Mixer Grinder,4425,33,1053,804,App
+2026-01-10,North,Delhi,Electronics,Bluetooth Speaker,19122,3,2292,488,Retail Store
+2026-02-03,West,Mumbai,Clothing,Men T-Shirt,17190,53,2026,214,Retail Store
+2026-02-06,South,Bangalore,Clothing,Men T-Shirt,12220,4,1269,991,Instagram
+2025-12-19,West,Pune,Clothing,Jeans,2223,55,2705,501,Flipkart
+2025-12-12,South,Bangalore,Home,Cookware Set,16051,38,847,1010,App
+2025-12-30,South,Bangalore,Beauty,Face Cream,10523,24,2510,949,Flipkart
+2026-01-28,West,Ahmedabad,Home,Mixer Grinder,18406,39,856,1171,App
+2026-01-02,West,Ahmedabad,Beauty,Perfume,4401,60,385,1041,Retail Store
+2026-01-18,South,Hyderabad,Beauty,Hair Dryer,19122,8,475,495,Flipkart
+2025-12-29,South,Chennai,Electronics,Smart Watch,13110,57,732,1218,Instagram
+2025-12-15,North,Delhi,Clothing,Men T-Shirt,14125,5,442,1251,Flipkart
+2025-12-15,East,Kolkata,Clothing,Women Kurti,7102,19,2286,18,Amazon
+2026-01-01,East,Patna,Home,Cookware Set,11317,2,1818,423,Retail Store
+2026-01-28,West,Pune,Electronics,Smart Watch,2434,53,1913,584,Amazon
+2026-02-07,North,Delhi,Electronics,Wireless Earbuds,2330,49,897,972,Amazon
+2025-12-19,East,Patna,Beauty,Hair Dryer,12576,46,2145,718,Amazon
+2026-01-04,South,Chennai,Home,Wall Clock,644,32,2979,949,Amazon
+2026-01-07,East,Bhubaneswar,Beauty,Perfume,12759,50,659,349,Retail Store
+2025-12-18,North,Delhi,Home,Cookware Set,14677,40,2757,1142,App
+2026-01-29,East,Kolkata,Electronics,Smart Watch,10711,23,120,693,Retail Store
+2026-02-09,East,Kolkata,Clothing,Men T-Shirt,7387,42,944,1162,Flipkart
+2026-01-02,North,Chandigarh,Clothing,Men T-Shirt,1847,6,693,359,Website
+2025-12-23,North,Delhi,Clothing,Men T-Shirt,19130,24,1568,426,Retail Store
+2026-01-05,North,Chandigarh,Clothing,Jeans,2487,8,915,258,Retail Store
+2026-01-05,South,Chennai,Electronics,Wireless Earbuds,1299,35,2104,845,Amazon
+2026-01-06,North,Lucknow,Clothing,Women Kurti,4826,54,2573,687,Instagram
+2025-12-23,West,Pune,Electronics,Wireless Earbuds,3280,29,1547,993,App
+2026-02-09,North,Delhi,Beauty,Hair Dryer,14310,18,1621,366,Flipkart
+2026-01-11,West,Pune,Clothing,Jeans,17391,43,1118,787,Amazon
+2026-02-04,East,Bhubaneswar,Electronics,Wireless Earbuds,11387,5,2200,730,Amazon
+2026-02-08,West,Ahmedabad,Home,Wall Clock,11820,53,2929,854,Retail Store
+2026-01-11,West,Mumbai,Beauty,Perfume,19311,54,129,169,Website
+2025-12-24,East,Kolkata,Beauty,Hair Dryer,1806,31,2351,1187,Amazon
+2026-02-07,North,Lucknow,Clothing,Women Kurti,5132,8,1580,1051,App
+2025-12-21,West,Ahmedabad,Beauty,Hair Dryer,13880,50,2229,973,Website
+2025-12-22,West,Mumbai,Beauty,Face Cream,8623,36,1082,168,App
+2025-12-21,West,Mumbai,Electronics,Bluetooth Speaker,14847,32,2255,590,Website
+2025-12-24,West,Pune,Home,Cookware Set,6283,49,394,331,App
+2025-12-24,North,Lucknow,Electronics,Bluetooth Speaker,18284,36,1743,1441,Instagram
+2026-01-25,East,Bhubaneswar,Beauty,Face Cream,19853,57,2546,293,Flipkart
+2026-01-30,East,Kolkata,Clothing,Men T-Shirt,18155,27,1720,302,Retail Store
+2026-01-07,West,Pune,Beauty,Face Cream,12779,46,2020,553,Website
+2025-12-26,West,Ahmedabad,Electronics,Bluetooth Speaker,15297,43,1498,988,Retail Store
+2026-01-29,South,Bangalore,Home,Cookware Set,2952,2,1366,1275,Flipkart
+2025-12-29,East,Patna,Beauty,Perfume,3114,11,634,991,App
+2026-01-27,East,Bhubaneswar,Clothing,Jeans,3159,57,1293,99,Website
+2026-01-30,West,Mumbai,Beauty,Face Cream,14353,8,1283,1364,Flipkart
+2026-02-02,East,Patna,Electronics,Smart Watch,7008,41,1850,1426,Instagram
+2026-01-29,West,Ahmedabad,Clothing,Jeans,18040,6,2283,726,App
+2026-01-07,South,Chennai,Beauty,Face Cream,12903,34,413,513,Amazon
+2025-12-26,South,Bangalore,Clothing,Jeans,17552,56,2367,191,Instagram
+2025-12-25,South,Hyderabad,Electronics,Wireless Earbuds,8739,55,2424,1417,Retail Store
+2026-01-11,North,Chandigarh,Beauty,Hair Dryer,12241,3,604,996,Amazon
+2025-12-20,East,Kolkata,Beauty,Perfume,1870,8,1660,1078,Instagram
+2026-01-07,South,Bangalore,Electronics,Bluetooth Speaker,17902,13,1824,226,Retail Store
+2025-12-23,East,Patna,Home,Mixer Grinder,19473,15,1962,1174,Retail Store
+2026-01-18,West,Mumbai,Beauty,Hair Dryer,11553,59,1913,487,App
+2026-01-04,South,Bangalore,Home,Wall Clock,14823,29,1966,611,Website
+2025-12-24,South,Bangalore,Home,Wall Clock,1690,5,642,1170,App
+2026-01-19,South,Chennai,Electronics,Bluetooth Speaker,11250,52,2445,317,Flipkart
+2026-01-21,South,Bangalore,Clothing,Women Kurti,589,52,1087,301,Flipkart
+2026-01-23,North,Lucknow,Home,Wall Clock,9196,30,1295,699,Retail Store
+2026-02-08,South,Bangalore,Clothing,Men T-Shirt,13658,21,1608,788,Amazon
+2026-01-30,West,Pune,Clothing,Women Kurti,3542,54,2317,137,Instagram
+2026-01-19,North,Delhi,Electronics,Wireless Earbuds,3554,2,1049,1489,Retail Store
+2025-12-13,West,Ahmedabad,Home,Cookware Set,3791,2,105,1194,Amazon
+2026-01-24,East,Kolkata,Beauty,Perfume,16016,7,159,601,Retail Store
+2026-01-24,East,Kolkata,Clothing,Jeans,16127,35,1525,1196,Website
+2026-01-14,East,Patna,Clothing,Women Kurti,6903,31,2413,378,Amazon
+2026-02-02,South,Chennai,Clothing,Jeans,9261,21,354,1005,Instagram
+2025-12-28,East,Kolkata,Home,Cookware Set,6557,7,147,1002,Website
+2026-01-06,West,Mumbai,Home,Cookware Set,823,53,647,1293,Amazon
+2026-02-04,North,Chandigarh,Beauty,Hair Dryer,3047,57,100,1004,Amazon
+2026-01-23,East,Kolkata,Electronics,Bluetooth Speaker,11032,14,473,220,Amazon
+2025-12-28,East,Patna,Clothing,Women Kurti,11005,48,2534,1020,Flipkart
+2025-12-18,South,Bangalore,Clothing,Men T-Shirt,1091,48,2500,535,Instagram
+2025-12-18,East,Bhubaneswar,Beauty,Perfume,11644,59,128,828,Instagram
+2025-12-25,North,Chandigarh,Electronics,Smart Watch,5227,46,97,1110,App
+2026-01-24,South,Chennai,Electronics,Bluetooth Speaker,14238,5,558,474,Retail Store
+2026-01-17,North,Delhi,Clothing,Women Kurti,3935,3,2707,1483,Instagram
+2026-01-14,South,Bangalore,Clothing,Jeans,5674,21,1190,287,App
+2026-02-01,East,Bhubaneswar,Home,Wall Clock,2593,60,1161,150,Instagram
+2026-02-05,North,Delhi,Electronics,Smart Watch,9344,21,2285,979,Website
+2026-01-27,East,Bhubaneswar,Electronics,Wireless Earbuds,15352,18,1699,404,Amazon
+2025-12-12,South,Hyderabad,Electronics,Smart Watch,3366,18,556,1217,Flipkart
+2026-01-25,East,Bhubaneswar,Electronics,Bluetooth Speaker,13548,38,2577,990,Amazon
+2026-01-06,North,Lucknow,Home,Cookware Set,4631,48,677,407,Retail Store
+2026-01-17,North,Lucknow,Home,Cookware Set,1497,55,2929,712,Amazon
+2025-12-26,South,Chennai,Electronics,Wireless Earbuds,15663,4,207,763,Retail Store
+2025-12-30,South,Chennai,Clothing,Jeans,19051,34,2812,1291,Retail Store
+2026-01-18,West,Pune,Beauty,Face Cream,10730,57,676,282,Retail Store
+2026-02-08,East,Patna,Beauty,Perfume,4954,5,232,644,Amazon
+2026-02-09,South,Bangalore,Clothing,Jeans,3266,21,1797,1431,Instagram
+2026-01-22,East,Kolkata,Electronics,Wireless Earbuds,8528,9,2091,408,Amazon
+2025-12-31,East,Kolkata,Electronics,Bluetooth Speaker,19578,4,1823,998,Retail Store
+2026-01-28,South,Bangalore,Home,Wall Clock,10307,30,1315,1159,Flipkart
+2025-12-30,East,Bhubaneswar,Clothing,Women Kurti,2710,47,2658,665,Retail Store
+2025-12-29,East,Kolkata,Clothing,Men T-Shirt,17533,16,742,266,Flipkart
+2025-12-23,East,Bhubaneswar,Clothing,Women Kurti,10161,7,373,213,Instagram
+2026-02-07,South,Bangalore,Home,Cookware Set,2344,24,1128,1341,Flipkart
+2026-02-02,North,Chandigarh,Clothing,Men T-Shirt,12655,38,871,467,Retail Store
+2025-12-22,South,Hyderabad,Home,Cookware Set,10437,13,1442,588,Amazon
+2026-02-06,West,Pune,Electronics,Bluetooth Speaker,17748,39,1784,701,Flipkart
+2026-01-21,South,Hyderabad,Electronics,Bluetooth Speaker,7485,56,2755,891,Instagram
+2025-12-21,North,Delhi,Beauty,Face Cream,9020,1,971,1259,Amazon
+2026-01-18,East,Patna,Home,Mixer Grinder,17681,59,572,914,App
+2026-01-25,West,Ahmedabad,Beauty,Face Cream,3221,46,322,869,Instagram
+2026-01-11,East,Patna,Home,Mixer Grinder,13692,48,1866,724,Amazon
+2026-01-26,South,Hyderabad,Electronics,Bluetooth Speaker,4514,32,1352,574,Website
+2026-01-13,North,Chandigarh,Electronics,Bluetooth Speaker,2285,32,2730,946,Flipkart
+2025-12-24,East,Bhubaneswar,Electronics,Smart Watch,14396,54,2262,1228,App
+2025-12-21,South,Chennai,Electronics,Smart Watch,5751,50,857,1270,Amazon
+2026-01-05,North,Lucknow,Electronics,Smart Watch,3821,4,1961,601,Website
+2026-02-03,East,Kolkata,Clothing,Jeans,3525,34,2350,145,Flipkart
+2026-01-19,North,Chandigarh,Clothing,Men T-Shirt,17493,53,690,719,Flipkart
+2025-12-29,West,Pune,Home,Mixer Grinder,3067,54,348,890,Instagram
+2026-01-26,North,Delhi,Home,Mixer Grinder,7312,9,2432,22,App
+2026-02-02,North,Chandigarh,Home,Wall Clock,15699,7,849,83,App
+2025-12-14,East,Kolkata,Home,Cookware Set,19315,29,1065,475,App
+2025-12-18,West,Ahmedabad,Electronics,Bluetooth Speaker,1553,26,2232,1125,Flipkart
+2026-01-31,North,Lucknow,Clothing,Women Kurti,3286,17,1192,954,Flipkart
+2025-12-13,West,Ahmedabad,Beauty,Hair Dryer,17431,38,1017,1219,Flipkart
+2025-12-21,South,Bangalore,Beauty,Face Cream,13928,24,55,1360,Website
+2026-01-13,West,Mumbai,Beauty,Face Cream,2609,48,1740,547,Website
+2025-12-17,West,Ahmedabad,Electronics,Smart Watch,5529,49,2824,679,Flipkart
+2026-02-06,North,Delhi,Home,Mixer Grinder,17646,10,981,475,Instagram
+2025-12-28,South,Chennai,Clothing,Jeans,8496,22,126,1033,Flipkart
+2025-12-31,East,Kolkata,Electronics,Bluetooth Speaker,5965,24,1514,1362,Flipkart
+2025-12-15,East,Kolkata,Electronics,Smart Watch,3759,55,127,1282,Website
+2026-01-28,North,Chandigarh,Beauty,Perfume,2389,19,1265,857,Instagram
+2026-01-31,West,Mumbai,Clothing,Women Kurti,7510,20,2847,718,Flipkart
+2025-12-21,East,Patna,Electronics,Wireless Earbuds,19741,6,928,1352,Flipkart
+2026-02-07,East,Kolkata,Electronics,Smart Watch,8544,36,666,739,Website
+2025-12-28,North,Chandigarh,Home,Mixer Grinder,19966,11,851,21,App
+2026-01-01,North,Chandigarh,Clothing,Men T-Shirt,3804,7,2546,193,Website
+2026-01-24,South,Hyderabad,Beauty,Face Cream,7149,42,1871,1468,Amazon
+2026-01-26,North,Lucknow,Electronics,Wireless Earbuds,7574,23,1744,132,Instagram
+2026-02-06,South,Chennai,Beauty,Perfume,5437,45,511,673,Instagram
+2025-12-23,South,Chennai,Beauty,Hair Dryer,4721,1,2757,130,Amazon
+2026-01-30,East,Patna,Beauty,Hair Dryer,17070,29,1450,339,Instagram
+2026-01-22,South,Chennai,Beauty,Perfume,19151,17,2048,908,Retail Store
+2026-02-01,South,Bangalore,Beauty,Face Cream,12735,46,1169,727,App
+2026-01-05,North,Chandigarh,Beauty,Hair Dryer,18979,45,1001,740,Retail Store
+2026-02-04,North,Delhi,Beauty,Perfume,9253,4,2300,890,Flipkart
+2026-02-01,West,Mumbai,Clothing,Jeans,14340,50,2204,1355,Instagram
+2026-01-20,North,Delhi,Home,Wall Clock,10585,44,1243,1415,Instagram
+2025-12-17,East,Kolkata,Beauty,Hair Dryer,15481,17,2725,550,Retail Store
+2025-12-29,East,Bhubaneswar,Electronics,Bluetooth Speaker,5085,20,61,750,Website
+2025-12-28,North,Chandigarh,Electronics,Bluetooth Speaker,3014,19,1056,1497,Website
+2026-01-23,South,Chennai,Beauty,Face Cream,12761,36,226,1369,Website
+2025-12-28,South,Hyderabad,Beauty,Hair Dryer,1119,23,1533,342,Amazon
+2026-01-30,North,Delhi,Electronics,Smart Watch,15035,15,281,64,Website
+2025-12-16,North,Delhi,Clothing,Men T-Shirt,15129,29,2515,970,Flipkart
+2025-12-28,East,Kolkata,Clothing,Women Kurti,11135,31,569,676,Website
+2026-02-05,South,Bangalore,Clothing,Jeans,13899,39,2093,724,Amazon
+2026-02-03,East,Kolkata,Clothing,Women Kurti,998,26,658,347,App
+2026-01-14,North,Chandigarh,Home,Wall Clock,758,17,2080,1074,Amazon
+2025-12-25,West,Ahmedabad,Clothing,Men T-Shirt,6859,30,2529,595,Retail Store
+2026-02-05,West,Mumbai,Home,Mixer Grinder,15730,52,1893,631,Amazon
+2026-01-27,South,Chennai,Beauty,Face Cream,14582,36,1886,765,App
+2025-12-20,East,Bhubaneswar,Clothing,Women Kurti,3722,42,2957,252,Retail Store
+2025-12-20,East,Bhubaneswar,Clothing,Jeans,11545,26,119,1483,Amazon
+2026-01-09,West,Pune,Beauty,Hair Dryer,9571,58,187,504,Flipkart
+2025-12-15,South,Chennai,Beauty,Face Cream,9209,32,2765,467,Flipkart
+2026-01-13,East,Bhubaneswar,Electronics,Bluetooth Speaker,8999,5,2140,871,Website
+2025-12-30,West,Pune,Beauty,Perfume,15740,60,2868,836,Flipkart
+2026-01-31,South,Chennai,Electronics,Wireless Earbuds,5906,44,2987,1369,Amazon
+2025-12-17,West,Pune,Home,Cookware Set,4262,1,1181,829,Amazon
+2026-01-16,South,Hyderabad,Home,Mixer Grinder,15058,8,2183,908,Flipkart
+2025-12-12,North,Chandigarh,Home,Wall Clock,7153,17,1178,470,Website
+2026-01-06,South,Bangalore,Home,Cookware Set,7438,40,561,175,Website
+2025-12-27,North,Lucknow,Beauty,Face Cream,1416,1,1596,25,Amazon
+2026-01-12,South,Bangalore,Electronics,Bluetooth Speaker,18341,42,2930,1475,Instagram
+2026-01-10,North,Chandigarh,Beauty,Hair Dryer,2182,14,803,139,Amazon
+2026-01-11,East,Kolkata,Home,Mixer Grinder,1304,53,2481,1388,Website
+2025-12-29,North,Lucknow,Home,Cookware Set,14960,14,1169,806,App
+2026-01-22,East,Patna,Home,Cookware Set,16549,18,1220,224,Amazon
+2026-01-07,North,Chandigarh,Electronics,Bluetooth Speaker,2258,40,926,48,Flipkart
+2025-12-24,East,Kolkata,Beauty,Perfume,5241,43,924,453,Retail Store
+2025-12-17,West,Ahmedabad,Home,Wall Clock,2821,12,2957,901,Retail Store
+2026-01-02,East,Bhubaneswar,Electronics,Wireless Earbuds,7104,22,1696,134,Flipkart
+2026-01-08,East,Bhubaneswar,Beauty,Face Cream,12757,56,532,1191,Instagram
+2026-01-18,East,Patna,Clothing,Jeans,14317,11,69,1430,App
+2025-12-15,West,Ahmedabad,Electronics,Smart Watch,9082,5,2007,782,Instagram
+2025-12-24,East,Patna,Electronics,Smart Watch,14946,39,238,135,Instagram
+2025-12-27,South,Chennai,Home,Cookware Set,10195,53,930,1373,Amazon
+2026-01-17,South,Chennai,Electronics,Wireless Earbuds,9998,38,2898,1148,Website
+2025-12-18,North,Lucknow,Home,Mixer Grinder,5894,42,319,789,App
+2025-12-18,North,Lucknow,Electronics,Bluetooth Speaker,1248,16,853,1347,Instagram
+2026-02-07,East,Bhubaneswar,Beauty,Face Cream,17608,13,1501,1488,Retail Store
+2026-01-05,West,Mumbai,Electronics,Wireless Earbuds,4536,29,2364,483,Flipkart
+2026-01-03,West,Mumbai,Clothing,Women Kurti,7751,52,2283,113,Website
+2026-01-24,West,Ahmedabad,Clothing,Men T-Shirt,16948,32,2447,389,Amazon
+2025-12-27,North,Delhi,Beauty,Perfume,5521,49,1213,1476,App
+2026-01-22,North,Delhi,Electronics,Wireless Earbuds,12851,59,2050,47,Retail Store
+2026-02-07,East,Patna,Home,Wall Clock,4914,44,159,194,Amazon
+2025-12-17,East,Bhubaneswar,Clothing,Women Kurti,11070,35,2199,845,Website
+2025-12-29,North,Delhi,Electronics,Smart Watch,4559,30,1947,1295,Website
+2026-01-24,West,Mumbai,Beauty,Perfume,7741,22,2794,535,Instagram
+2025-12-27,South,Hyderabad,Home,Mixer Grinder,1428,2,811,317,Instagram
+2025-12-20,South,Bangalore,Home,Wall Clock,7236,24,720,1322,Amazon
+2025-12-13,West,Mumbai,Clothing,Men T-Shirt,17404,9,782,862,Instagram
+2026-01-22,West,Mumbai,Electronics,Smart Watch,17874,41,2324,425,Flipkart
+2025-12-28,West,Mumbai,Electronics,Bluetooth Speaker,4095,60,183,257,Amazon
+2026-02-06,South,Chennai,Beauty,Perfume,8377,57,1743,239,Retail Store
+2026-01-12,South,Bangalore,Beauty,Face Cream,11891,25,2439,1445,Website
+2026-01-03,South,Bangalore,Beauty,Hair Dryer,5576,34,1702,39,Flipkart
+2025-12-26,North,Delhi,Beauty,Face Cream,8572,31,2736,1255,Flipkart
+2026-01-20,South,Bangalore,Electronics,Bluetooth Speaker,7599,40,1979,1280,Flipkart
+2026-01-12,South,Chennai,Clothing,Women Kurti,8582,27,2528,1358,Website
+2026-01-26,East,Patna,Clothing,Men T-Shirt,4620,28,2589,24,Flipkart
+2025-12-27,South,Chennai,Beauty,Perfume,12774,1,1043,1417,App
+2026-01-04,West,Pune,Electronics,Bluetooth Speaker,8829,8,2908,1372,Retail Store
+2025-12-31,East,Patna,Clothing,Women Kurti,8421,16,1935,1070,Amazon
+2025-12-12,East,Kolkata,Electronics,Bluetooth Speaker,15066,53,2347,281,App
+2026-01-22,South,Chennai,Clothing,Jeans,15137,26,2366,376,App
+2025-12-17,East,Bhubaneswar,Home,Mixer Grinder,1515,35,1139,160,App
+2026-01-20,North,Lucknow,Home,Cookware Set,16584,23,2191,476,App
+2026-02-01,North,Chandigarh,Home,Cookware Set,4278,44,520,1263,Amazon
+2026-02-09,West,Ahmedabad,Clothing,Women Kurti,4619,27,1419,262,Instagram
+2026-02-01,North,Delhi,Home,Cookware Set,4974,13,639,1032,Flipkart
+2026-01-12,North,Lucknow,Beauty,Perfume,7626,58,2970,1405,Website
+2025-12-12,East,Bhubaneswar,Beauty,Face Cream,9339,14,904,354,Instagram
+2026-01-12,North,Chandigarh,Electronics,Smart Watch,9690,14,687,992,App
+2025-12-17,East,Bhubaneswar,Beauty,Hair Dryer,17189,37,2002,832,Amazon
+2026-01-02,North,Delhi,Electronics,Wireless Earbuds,12434,46,555,361,Flipkart
+2026-01-27,West,Mumbai,Clothing,Men T-Shirt,17544,24,64,223,Flipkart
+2026-02-06,West,Pune,Clothing,Jeans,2067,28,2261,316,Website
+2026-01-05,West,Mumbai,Beauty,Face Cream,15272,18,111,874,Instagram
+2025-12-15,North,Chandigarh,Beauty,Face Cream,15537,52,476,1211,Instagram
+2025-12-19,South,Chennai,Home,Wall Clock,13061,60,84,553,Website
+2026-01-18,South,Hyderabad,Electronics,Smart Watch,1652,22,2274,495,Retail Store
+2025-12-18,East,Patna,Clothing,Women Kurti,15350,50,141,318,Retail Store
+2026-01-25,North,Delhi,Home,Mixer Grinder,14951,31,639,658,Website
+2025-12-21,North,Chandigarh,Beauty,Face Cream,16281,14,2400,260,Instagram
+2026-01-17,West,Pune,Home,Cookware Set,4635,37,237,1373,Flipkart
+2025-12-14,West,Mumbai,Home,Wall Clock,14600,15,1414,1462,Amazon
+2026-01-09,South,Hyderabad,Clothing,Jeans,1326,25,1673,187,App
+2026-01-22,West,Mumbai,Home,Wall Clock,3039,52,1735,433,Amazon
+2025-12-28,North,Chandigarh,Home,Mixer Grinder,17443,46,968,163,Instagram
+2026-02-01,West,Mumbai,Electronics,Bluetooth Speaker,3950,28,1581,977,Instagram
+2025-12-27,East,Patna,Clothing,Women Kurti,14756,40,2379,349,Instagram
+2026-01-13,North,Delhi,Clothing,Jeans,17364,4,2734,354,Flipkart
+2026-01-28,North,Chandigarh,Beauty,Face Cream,18407,30,2404,314,Instagram
+2026-01-30,North,Delhi,Clothing,Jeans,9033,14,1135,972,Website
+2025-12-12,East,Kolkata,Beauty,Hair Dryer,1176,18,893,998,Website
+2025-12-27,West,Ahmedabad,Home,Wall Clock,6907,41,2712,93,Flipkart
+2025-12-12,West,Pune,Electronics,Smart Watch,16060,17,1120,952,Instagram
