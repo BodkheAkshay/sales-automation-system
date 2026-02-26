@@ -33,7 +33,7 @@ sales-automation/
 
 data_generator.py → Inserts daily sales data into MySQL  
 sales_analyzer.py → Analyzes sales trends and detects anomalies  
-alert_service.py → Sends alert notifications  
+alert.py → Sends alert notifications  
 main.py → Runs complete automation pipeline  
   
 dashboard/
